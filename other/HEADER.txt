@@ -1,0 +1,1 @@
+acc	biorep1_union	biorep1_n1	biorep1_n2	biorep1_n_mu	biorep2_n	bioreps_union	bioreps_n_mu	name 

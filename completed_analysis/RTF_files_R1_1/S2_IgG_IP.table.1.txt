@@ -1,0 +1,20 @@
+1	P02769	(Bos taurus) Bovine serum albumin precursor	929.74	24	7 10 13 21 25 28 29 30 31 35 38 42 43 52 53 54 58 65 67 74 78 87 89 92	NA	NA
+2	P04264	Tax_Id=9606 Gene_Symbol=KRT1 Keratin, type II cytoskeletal 1	430.73	11	2 3 9 24 37 55 57 70 73 82 91	NA	NA
+3	P35527	Tax_Id=9606 Gene_Symbol=KRT9 Keratin, type I cytoskeletal 9	424.91	10	1 19 20 40 44 49 50 61 62 80	NA	NA
+4	P13645	Tax_Id=9606 Gene_Symbol=KRT10 Keratin, type I cytoskeletal 10	423.69	10	6 11 14 32 51 59 66 68 77 81	NA	NA
+5	P35908	Tax_Id=9606 Gene_Symbol=KRT2 Keratin, type II cytoskeletal 2 epidermal	188.38	6	4 23 34 79 83 85	NA	NA
+6	P02768-1	Tax_Id=9606 Gene_Symbol=ALB Isoform 1 of Serum albumin precursor	113.99	2	17 84	NA	NA
+7	P00761	Trypsin - Sus scrofa (Pig).	111.59	2	39 60	NA	NA
+8	Q1RMK2	(Bos taurus) IGHM protein	110.65	2	64 86	NA	NA
+9	P48668	Tax_Id=9606 Gene_Symbol=KRT6C Keratin, type II cytoskeletal 6C	97.67	3	22 45 48	NA	NA
+9	P04259	Tax_Id=9606 Gene_Symbol=KRT6B Keratin, type II cytoskeletal 6B	97.67	3	22 45 48	NA	NA
+9	P02538	Tax_Id=9606 Gene_Symbol=KRT6A Keratin, type II cytoskeletal 6A	97.67	3	22 45 48	NA	NA
+10	P02533	Tax_Id=9606 Gene_Symbol=KRT14 Keratin, type I cytoskeletal 14	84.73	3	26 47 75	NA	NA
+11	Q9VM94	Homer, isoform B OS=Drosophila melanogaster GN=homer PE=2 SV=1	43.56	2	16 18	NA	NA
+11	Q0E8S7	Homer, isoform C OS=Drosophila melanogaster GN=homer PE=4 SV=1	43.56	2	16 18	NA	NA
+11	O96607	Homer OS=Drosophila melanogaster GN=homer PE=2 SV=1	43.56	2	16 18	NA	NA
+12	P41093	60S ribosomal protein L18a OS=Drosophila melanogaster GN=RpL18A PE=1 SV=1	36.03	3	27 71 90	NA	NA
+13	Q3SZ57	(Bos taurus) Alpha-fetoprotein precursor	34.98	1	5	NA	NA
+14	P02662	Alpha-S1-casein - Bos taurus (Bovine).	31.48	1	88	NA	NA
+15	P20193	Protein suppressor of variegation 3-7 OS=Drosophila melanogaster GN=Su(var)3-7 PE=1 SV=4	24.53	1	63	NA	NA
+15	E1JIJ9	FI20162p1 OS=Drosophila melanogaster GN=Su(var)3-7 PE=2 SV=1	24.53	1	63	NA	NA

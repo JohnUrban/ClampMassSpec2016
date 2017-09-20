@@ -1,0 +1,98 @@
+1	P02769	(Bos taurus) Bovine serum albumin precursor	1129.04	32	13 20 42 45 48 50 51 55 56 57 60 63 64 65 67 76 77 78 79 93 98 102 103 108 121 124 128 130 141 148 166 168	NA	NA
+2	P04264	Tax_Id=9606 Gene_Symbol=KRT1 Keratin, type II cytoskeletal 1	436.39	10	3 7 8 19 66 104 109 142 156 169	NA	NA
+3	P35527	Tax_Id=9606 Gene_Symbol=KRT9 Keratin, type I cytoskeletal 9	434.47	9	1 37 69 84 94 113 119 131 151	NA	NA
+4	Q9V9N4	CG1832, isoform A OS=Drosophila melanogaster GN=Jupiter PE=2 SV=1	257.53	4	89 118 143 164	NA	NA
+4	Q8IGP5	CG1832, isoform B OS=Drosophila melanogaster GN=CG1832-RB PE=2 SV=1	257.53	4	89 118 143 164	NA	NA
+5	P13645	Tax_Id=9606 Gene_Symbol=KRT10 Keratin, type I cytoskeletal 10	250.46	6	25 96 110 125 149 153	NA	NA
+6	P02533	Tax_Id=9606 Gene_Symbol=KRT14 Keratin, type I cytoskeletal 14	240.37	5	5 43 86 87 147	NA	NA
+7	P08736	Elongation factor 1-alpha 1 OS=Drosophila melanogaster GN=Ef1alpha48D PE=1 SV=2	224.39	6	12 61 68 114 117 154	NA	NA
+7	P05303	Elongation factor 1-alpha 2 OS=Drosophila melanogaster GN=Ef1alpha100E PE=2 SV=2	224.39	6	12 61 68 114 117 154	NA	NA
+7	A4V3Q6	Elongation factor 1-alpha OS=Drosophila melanogaster GN=Ef1alpha100E PE=3 SV=1	224.39	6	12 61 68 114 117 154	NA	NA
+8	P35908	Tax_Id=9606 Gene_Symbol=KRT2 Keratin, type II cytoskeletal 2 epidermal	176.42	6	9 46 134 152 157 159	NA	NA
+9	P02768-1	Tax_Id=9606 Gene_Symbol=ALB Isoform 1 of Serum albumin precursor	160.52	3	34 36 158	NA	NA
+10	P00761	Trypsin - Sus scrofa (Pig).	131.05	2	70 112	NA	NA
+11	Q94920	Voltage-dependent anion-selective channel OS=Drosophila melanogaster GN=porin PE=1 SV=3	127.19	2	21 145	NA	NA
+12	P06605	Tubulin alpha-3 chain OS=Drosophila melanogaster GN=alphaTub84D PE=2 SV=1	119.47	3	38 137 171	NA	NA
+12	P06603	Tubulin alpha-1 chain OS=Drosophila melanogaster GN=alphaTub84B PE=2 SV=1	119.47	3	38 137 171	NA	NA
+12	A4V2J2	Alpha-Tubulin at 84D, isoform B OS=Drosophila melanogaster GN=alphaTub84D PE=3 SV=1	119.47	3	38 137 171	NA	NA
+13	Q26365-2	Isoform A of ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB	113.08	5	39 71 91 99 150	NA	NA
+13	Q26365	ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB PE=2 SV=4	113.08	5	39 71 91 99 150	NA	NA
+14	O02649	60 kDa heat shock protein, mitochondrial OS=Drosophila melanogaster GN=Hsp60 PE=1 SV=3	98.07	1	35	NA	NA
+15	P48668	Tax_Id=9606 Gene_Symbol=KRT6C Keratin, type II cytoskeletal 6C	96.80	3	44 85 90	NA	NA
+15	P04259	Tax_Id=9606 Gene_Symbol=KRT6B Keratin, type II cytoskeletal 6B	96.80	3	44 85 90	NA	NA
+15	P02538	Tax_Id=9606 Gene_Symbol=KRT6A Keratin, type II cytoskeletal 6A	96.80	3	44 85 90	NA	NA
+16	Q9W2U7	CG17255, isoform A OS=Drosophila melanogaster GN=nocte PE=2 SV=4	96.16	6	16 72 73 81 101 132	NA	NA
+17	P24156	Protein l(2)37Cc OS=Drosophila melanogaster GN=l(2)37Cc PE=2 SV=2	90.55	1	160	NA	NA
+17	E1JHL5	Lethal (2) 37Cc, isoform C OS=Drosophila melanogaster GN=l(2)37Cc PE=4 SV=1	90.55	1	160	NA	NA
+18	P60712	(Bos taurus) Actin, cytoplasmic 1	86.74	2	58 97	NA	NA
+18	P10987	Actin-5C OS=Drosophila melanogaster GN=Act5C PE=1 SV=4	86.74	2	58 97	NA	NA
+18	P02572	Actin-42A OS=Drosophila melanogaster GN=Act42A PE=1 SV=3	86.74	2	58 97	NA	NA
+19	P29413	Calreticulin OS=Drosophila melanogaster GN=Crc PE=1 SV=2	86.67	1	22	NA	NA
+20	Q9V397	BcDNA.GH12558 OS=Drosophila melanogaster GN=Mtpalpha PE=2 SV=1	81.80	3	54 116 170	NA	NA
+20	Q8IPE8	CG4389, isoform B OS=Drosophila melanogaster GN=Mtpalpha PE=3 SV=1	81.80	3	54 116 170	NA	NA
+21	P29844	Heat shock 70 kDa protein cognate 3 OS=Drosophila melanogaster GN=Hsc70-3 PE=2 SV=2	79.59	2	2 59	NA	NA
+22	Q05825	ATP synthase subunit beta, mitochondrial OS=Drosophila melanogaster GN=ATPsyn-beta PE=2 SV=3	74.77	3	111 122 129	NA	NA
+22	L0MQ04	ATP synthase-beta, isoform C OS=Drosophila melanogaster GN=ATPsyn-beta PE=4 SV=1	74.77	3	111 122 129	NA	NA
+23	Q9W5R8	60S ribosomal protein L5 OS=Drosophila melanogaster GN=RpL5 PE=2 SV=2	72.23	1	126	NA	NA
+24	Q9VNX4	CG7145, isoform A OS=Drosophila melanogaster GN=P5CDh1 PE=2 SV=1	64.38	2	106 167	NA	NA
+25	P54399	Protein disulfide-isomerase OS=Drosophila melanogaster GN=Pdi PE=2 SV=1	63.12	2	23 82	NA	NA
+26	Q02748	Eukaryotic initiation factor 4A OS=Drosophila melanogaster GN=eIF-4a PE=2 SV=3	53.84	1	18	NA	NA
+27	Q08473-3	Isoform C of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	53.22	2	144 161	NA	NA
+27	Q08473-2	Isoform A of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	53.22	2	144 161	NA	NA
+27	Q08473	RNA-binding protein squid OS=Drosophila melanogaster GN=sqd PE=1 SV=3	53.22	2	144 161	NA	NA
+28	P08779	Tax_Id=9606 Gene_Symbol=KRT16 Keratin, type I cytoskeletal 16	51.73	2	15 27	NA	NA
+29	Q9VLC5	Aldehyde dehydrogenase OS=Drosophila melanogaster GN=Aldh PE=3 SV=1	50.63	1	115	NA	NA
+30	Q9VRP2	CG10576, isoform A OS=Drosophila melanogaster GN=CG10576 PE=2 SV=1	48.63	2	31 133	NA	NA
+31	P55830	40S ribosomal protein S3a OS=Drosophila melanogaster GN=RpS3A PE=2 SV=4	47.10	2	75 135	NA	NA
+31	H9XVL9	Ribosomal protein S3A, isoform F OS=Drosophila melanogaster GN=RpS3A PE=3 SV=1	47.10	2	75 135	NA	NA
+32	Q24560	Tubulin beta-1 chain OS=Drosophila melanogaster GN=betaTub56D PE=1 SV=2	46.97	2	140 165	NA	NA
+33	Q99323-4	Isoform 4 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	42.99	1	17	NA	NA
+33	Q99323-2	Isoform 2 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	42.99	1	17	NA	NA
+33	Q99323-1	Isoform 1 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	42.99	1	17	NA	NA
+33	Q99323	Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip PE=1 SV=2	42.99	1	17	NA	NA
+33	Q59E59	Zipper, isoform D OS=Drosophila melanogaster GN=zip PE=4 SV=1	42.99	1	17	NA	NA
+33	Q59E58	Zipper, isoform C OS=Drosophila melanogaster GN=zip PE=4 SV=1	42.99	1	17	NA	NA
+34	O46067	CG2918, isoform A OS=Drosophila melanogaster GN=EG:25E8.1 PE=2 SV=1	37.67	1	10	NA	NA
+35	Q9V438	CaBP1 OS=Drosophila melanogaster GN=CaBP1 PE=2 SV=1	34.90	1	83	NA	NA
+36	Q9VHN7	CG8036, isoform B OS=Drosophila melanogaster GN=CG8036 PE=2 SV=3	34.39	1	29	NA	NA
+36	Q7KSU6	CG8036, isoform D OS=Drosophila melanogaster GN=CG8036 PE=2 SV=1	34.39	1	29	NA	NA
+37	Q9W392	CG7033, isoform A OS=Drosophila melanogaster GN=CG7033 PE=2 SV=2	32.47	1	40	NA	NA
+37	A4V464	CG7033, isoform C OS=Drosophila melanogaster GN=CG7033 PE=3 SV=1	32.47	1	40	NA	NA
+38	Q9W1M6	Apontic, isoform B OS=Drosophila melanogaster GN=apt PE=2 SV=2	29.03	1	146	NA	NA
+38	Q8MLR4	Apontic, isoform E OS=Drosophila melanogaster GN=apt PE=2 SV=1	29.03	1	146	NA	NA
+38	O61602	Apontic OS=Drosophila melanogaster GN=apt PE=2 SV=1	29.03	1	146	NA	NA
+39	P07909-4	Isoform D of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	28.69	1	107	NA	NA
+39	P07909-3	Isoform E of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	28.69	1	107	NA	NA
+39	P07909-2	Isoform A of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	28.69	1	107	NA	NA
+39	P07909	Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE PE=2 SV=1	28.69	1	107	NA	NA
+39	A4V3J6	Heterogeneous nuclear ribonucleoprotein at 98DE, isoform F OS=Drosophila melanogaster GN=Hrb98DE PE=4 SV=1	28.69	1	107	NA	NA
+39	A4V3J5	Heterogeneous nuclear ribonucleoprotein at 98DE, isoform C OS=Drosophila melanogaster GN=Hrb98DE PE=4 SV=1	28.69	1	107	NA	NA
+40	Q9V3Q4	GH25379p OS=Drosophila melanogaster GN=Jafrac2 PE=2 SV=1	28.03	1	80	NA	NA
+41	Q9VVA6	Nuclear migration protein NudC OS=Drosophila melanogaster GN=nudC PE=2 SV=2	27.81	1	88	NA	NA
+42	Q9VVL7	Dihydrolipoyl dehydrogenase OS=Drosophila melanogaster GN=CG7430 PE=2 SV=1	27.78	2	32 53	NA	NA
+43	A1ZAB5	Protein clueless OS=Drosophila melanogaster GN=clu PE=1 SV=1	27.48	1	127	NA	NA
+44	P21525-3	Isoform B of Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay	27.39	1	105	NA	NA
+44	P21525-2	Isoform A of Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay	27.39	1	105	NA	NA
+44	P21525	Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay PE=1 SV=4	27.39	1	105	NA	NA
+44	A8MPH9	Transcription factor kayak, isoforms D/sro OS=Drosophila melanogaster GN=kay PE=1 SV=2	27.39	1	105	NA	NA
+45	P84249	Histone H3.3 OS=Drosophila melanogaster GN=His3.3A PE=1 SV=2	27.35	1	24	NA	NA
+45	P02299	Histone H3 OS=Drosophila melanogaster GN=His3 PE=1 SV=4	27.35	1	24	NA	NA
+45	E2QCP0	Histone H3 OS=Drosophila melanogaster GN=His3.3A PE=3 SV=1	27.35	1	24	NA	NA
+46	P13008	40S ribosomal protein S26 OS=Drosophila melanogaster GN=RpS26 PE=1 SV=1	26.55	1	92	NA	NA
+47	Q7KR04	40S ribosomal protein S15Ab OS=Drosophila melanogaster GN=RpS15Ab PE=2 SV=3	25.71	1	52	NA	NA
+47	P48149	40S ribosomal protein S15Aa OS=Drosophila melanogaster GN=RpS15Aa PE=2 SV=2	25.71	1	52	NA	NA
+47	E1JJM9	Ribosomal protein S15Aa, isoform F OS=Drosophila melanogaster GN=RpS15Aa PE=3 SV=1	25.71	1	52	NA	NA
+48	P48591	Ribonucleoside-diphosphate reductase large subunit OS=Drosophila melanogaster GN=RnrL PE=1 SV=2	25.47	1	155	NA	NA
+49	Q3YMU0	ERp60 (Fragment) OS=Drosophila melanogaster GN=ERp60 PE=2 SV=1	24.65	1	4	NA	NA
+50	P12763	(Bos taurus) Alpha-2-HS-glycoprotein precursor	24.59	1	74	NA	NA
+51	Q960K8	CG5044, isoform A OS=Drosophila melanogaster GN=CG5044 PE=2 SV=1	24.21	1	41	NA	NA
+51	Q86BP1	CG5044, isoform B OS=Drosophila melanogaster GN=CG5044-RB PE=2 SV=1	24.21	1	41	NA	NA
+52	Q3SZ57	(Bos taurus) Alpha-fetoprotein precursor	23.56	1	11	NA	NA
+53	Q9VZX9	Adenosylhomocysteinase OS=Drosophila melanogaster GN=CG9977-RA PE=2 SV=1	23.36	1	30	NA	NA
+54	Q7KNS5	Quaking related 54B, isoform A OS=Drosophila melanogaster GN=qkr54B PE=2 SV=1	22.22	2	14 163	NA	NA
+55	P25007	Peptidyl-prolyl cis-trans isomerase OS=Drosophila melanogaster GN=Cyp1 PE=1 SV=2	21.85	1	100	NA	NA
+56	Q9VK63	CG5776 OS=Drosophila melanogaster GN=CG5776 PE=2 SV=1	21.66	1	28	NA	NA
+57	Q8T8W3	AT21416p OS=Drosophila melanogaster GN=Past1 PE=2 SV=1	21.65	2	62 138	NA	NA
+57	Q8T6I0	EH domain containing protein OS=Drosophila melanogaster GN=Past1 PE=2 SV=1	21.65	2	62 138	NA	NA
+58	Q8STG9	DSec61alpha OS=Drosophila melanogaster GN=Sec61alpha PE=2 SV=1	21.18	1	162	NA	NA
+59	Q95028	L-lactate dehydrogenase OS=Drosophila melanogaster GN=ImpL3 PE=2 SV=1	20.83	1	95	NA	NA

@@ -1,0 +1,719 @@
+tr|A1Z6H7|A1Z6H7_DROME Gp210 ortholog, isoform A OS=Drosophila melanogaster GN=Gp210 PE=1 SV=1	209.64317905	1876	183
+tr|A1Z6L9|A1Z6L9_DROME FI21274p1 OS=Drosophila melanogaster GN=Trap1 PE=1 SV=1	77.89649745	691	87
+tr|A1Z6Q0|A1Z6Q0_DROME Klaroid, isoform D OS=Drosophila melanogaster GN=koi PE=1 SV=1	51.70528895	449	57
+tr|A1Z7H2|A1Z7H2_DROME Acyl-CoA synthetase long-chain, isoform D OS=Drosophila melanogaster GN=Acsl PE=1 SV=1	80.54777217	717	95
+tr|A1Z7H3|A1Z7H3_DROME Acyl-CoA synthetase long-chain, isoform C OS=Drosophila melanogaster GN=Acsl PE=1 SV=1	79.35924141	707	94
+tr|A1Z7K8|A1Z7K8_DROME CG8235 OS=Drosophila melanogaster GN=AIMP1 PE=1 SV=1	34.36103966	323	42
+sp|A1Z8P9|TPR_DROME Nucleoprotein TPR OS=Drosophila melanogaster GN=Mtor PE=1 SV=1	262.17575509	2346	294
+tr|A1Z8U0|A1Z8U0_DROME Pre-mRNA processing factor 8 OS=Drosophila melanogaster GN=Prp8 PE=1 SV=1	279.38264198	2396	290
+tr|A1Z8U9|A1Z8U9_DROME Ribosomal protein S11, isoform B OS=Drosophila melanogaster GN=RpS11 PE=1 SV=1	18.07284376	154	38
+tr|A1Z945|A1Z945_DROME CG8771, isoform B OS=Drosophila melanogaster GN=CG8771 PE=1 SV=2	210.16194175	1839	182
+tr|A1Z9D9|A1Z9D9_DROME Bb in a boxcar, isoform A OS=Drosophila melanogaster GN=bbc PE=1 SV=1	46.33093608	417	27
+tr|A1Z9E0|A1Z9E0_DROME Bb in a boxcar, isoform B OS=Drosophila melanogaster GN=bbc PE=1 SV=1	45.95980907	417	27
+tr|A1Z9I8|A1Z9I8_DROME Short stop, isoform G OS=Drosophila melanogaster GN=shot PE=1 SV=1	614.84144496	5385	762
+tr|A1Z9I9|A1Z9I9_DROME Short stop, isoform B OS=Drosophila melanogaster GN=shot PE=1 SV=1	614.90554263	5390	764
+tr|A1Z9J0|A1Z9J0_DROME Short stop, isoform E OS=Drosophila melanogaster GN=shot PE=1 SV=1	594.21380069	5201	736
+tr|A1Z9J3|A1Z9J3_DROME Short stop, isoform H OS=Drosophila melanogaster GN=shot PE=1 SV=1	988.92491785	8805	1109
+tr|A1Z9M3|A1Z9M3_DROME Combgap, isoform B OS=Drosophila melanogaster GN=cg PE=1 SV=1	83.68455392	772	59
+tr|A1Z9N0|A1Z9N0_DROME Optic atrophy 1 ortholog, isoform A OS=Drosophila melanogaster GN=Opa1 PE=1 SV=1	111.70660659	972	151
+sp|A1ZAB5|CLU_DROME Protein clueless OS=Drosophila melanogaster GN=clu PE=1 SV=1	160.73360105	1448	159
+tr|A1ZAS3|A1ZAS3_DROME Uridine kinase OS=Drosophila melanogaster GN=l(2)k01209 PE=1 SV=1	62.95454346	561	66
+sp|A1ZAX1|EIF3C_DROME Eukaryotic translation initiation factor 3 subunit C OS=Drosophila melanogaster GN=eIF3-S8 PE=1 SV=1	105.56983839	910	136
+tr|A1ZB77|A1ZB77_DROME CG5174, isoform J OS=Drosophila melanogaster GN=CG5174 PE=1 SV=1	20.47247515	186	24
+tr|A1ZB78|A1ZB78_DROME CG5174, isoform G OS=Drosophila melanogaster GN=CG5174 PE=1 SV=1	18.24437506	166	23
+tr|A1ZB79|A1ZB79_DROME CG5174, isoform M OS=Drosophila melanogaster GN=CG5174 PE=1 SV=2	21.88796986	202	25
+tr|A1ZB80|A1ZB80_DROME CG5174, isoform A OS=Drosophila melanogaster GN=CG5174-RA PE=1 SV=1	22.52528825	208	24
+tr|A1ZB83|A1ZB83_DROME CG5174, isoform B OS=Drosophila melanogaster GN=CG5174 PE=1 SV=1	39.31662719	355	40
+tr|A1ZBE9|A1ZBE9_DROME Methionyl-tRNA synthetase OS=Drosophila melanogaster GN=MetRS PE=1 SV=1	112.39580317	1022	119
+tr|A1ZBL0|A1ZBL0_DROME Tubulin beta chain OS=Drosophila melanogaster GN=betaTub56D PE=1 SV=1	51.24576459	456	38
+sp|Q61765|K1H1_MOUSE Keratin, type I cuticular Ha1 OS=Mus musculus GN=Krt31 PE=1 SV=2	47.06869141	416	41
+tr|A4V1F9|A4V1F9_DROME Ubiquitin-63E, isoform C OS=Drosophila melanogaster GN=Ubi-p63E PE=4 SV=1	85.72823975	763	111
+tr|A4V201|A4V201_DROME TBP-associated factor 4, isoform D OS=Drosophila melanogaster GN=Taf4 PE=1 SV=1	91.98610595	851	83
+tr|A4V2K7|A4V2K7_DROME D1 chromosomal protein, isoform C OS=Drosophila melanogaster GN=D1 PE=1 SV=1	36.96092715	355	50
+tr|A4V2Z1|A4V2Z1_DROME Non-specific lethal 1, isoform D OS=Drosophila melanogaster GN=nsl1 PE=1 SV=1	167.76713472	1550	167
+tr|A4V364|A4V364_DROME Syncrip, isoform F OS=Drosophila melanogaster GN=Syp PE=1 SV=1	59.34722179	529	77
+tr|A4V3G8|A4V3G8_DROME Ballchen, isoform B OS=Drosophila melanogaster GN=ball PE=1 SV=1	65.93463202	599	98
+tr|A4V3J5|A4V3J5_DROME Heterogeneous nuclear ribonucleoprotein at 98DE, isoform C OS=Drosophila melanogaster GN=Hrb98DE PE=1 SV=1	38.99625561	365	40
+tr|A4V3J6|A4V3J6_DROME Heterogeneous nuclear ribonucleoprotein at 98DE, isoform F OS=Drosophila melanogaster GN=Hrb98DE PE=1 SV=1	38.50904892	361	40
+tr|A4V3Q6|A4V3Q6_DROME Elongation factor 1-alpha OS=Drosophila melanogaster GN=Ef1alpha100E PE=1 SV=1	50.61246233	462	62
+tr|A4V4A1|A4V4A1_DROME Kinesin-like protein OS=Drosophila melanogaster GN=Klp10A PE=1 SV=1	88.59808365	805	88
+tr|A4V4A5|A4V4A5_DROME GTP-binding nuclear protein OS=Drosophila melanogaster GN=Ran PE=1 SV=1	24.67463819	216	30
+tr|A4V4F2|A4V4F2_DROME Flotillin 2, isoform F OS=Drosophila melanogaster GN=Flo2 PE=1 SV=1	46.55529882	425	56
+tr|A8DYD1|A8DYD1_DROME Combgap, isoform L OS=Drosophila melanogaster GN=cg PE=1 SV=2	90.76492888	837	62
+tr|A8DYD2|A8DYD2_DROME Combgap, isoform J OS=Drosophila melanogaster GN=cg PE=1 SV=2	89.65838587	825	62
+tr|A8DYD3|A8DYD3_DROME Combgap, isoform F OS=Drosophila melanogaster GN=cg PE=1 SV=1	83.57453893	770	59
+tr|A8DYI6|A8DYI6_DROME Prohibitin 2, isoform E OS=Drosophila melanogaster GN=Phb2 PE=1 SV=1	37.23882945	338	46
+tr|A8DYI7|A8DYI7_DROME Prohibitin 2, isoform D OS=Drosophila melanogaster GN=Phb2 PE=1 SV=1	33.45487738	303	39
+tr|A8DZ29|A8DZ29_DROME Eukaryotic translation initiation factor 4G, isoform B OS=Drosophila melanogaster GN=eIF4G PE=1 SV=1	210.97534421	1919	204
+tr|A8JNJ6|A8JNJ6_DROME Karst, isoform E OS=Drosophila melanogaster GN=kst PE=1 SV=2	497.23137837	4337	613
+tr|A8JR54|A8JR54_DROME Syncrip, isoform H OS=Drosophila melanogaster GN=Syp PE=1 SV=1	59.99651117	534	78
+sp|A8MPH9|FOSLD_DROME Transcription factor kayak, isoforms D/sro OS=Drosophila melanogaster GN=kay PE=1 SV=2	78.25406297	722	43
+sp|A8MPH9-2|FOSLD_DROME Isoform sro of Transcription factor kayak, isoforms D/sro OS=Drosophila melanogaster GN=kay	24.70876631	210	8
+tr|A8Y560|A8Y560_DROME Ribosomal protein L15 OS=Drosophila melanogaster GN=RpL15 PE=1 SV=2	24.2922245	204	49
+tr|B3LF78|B3LF78_DROME Fmr1, isoform F OS=Drosophila melanogaster GN=Fmr1 PE=1 SV=1	71.93171461	646	90
+tr|B7YZE6|B7YZE6_DROME Combgap, isoform I OS=Drosophila melanogaster GN=cg PE=1 SV=1	83.8126125	773	59
+tr|B7YZG2|B7YZG2_DROME Short stop, isoform K OS=Drosophila melanogaster GN=shot PE=1 SV=1	613.23960635	5370	758
+tr|B7YZG3|B7YZG3_DROME Short stop, isoform I OS=Drosophila melanogaster GN=shot PE=1 SV=1	613.30370402	5375	760
+tr|B7YZG4|B7YZG4_DROME Short stop, isoform J OS=Drosophila melanogaster GN=shot PE=1 SV=1	612.71343784	5368	763
+tr|B7YZG5|B7YZG5_DROME Short stop, isoform L OS=Drosophila melanogaster GN=shot PE=1 SV=1	625.67327505	5486	770
+tr|B7YZG6|B7YZG6_DROME Short stop, isoform M OS=Drosophila melanogaster GN=shot PE=1 SV=1	625.08300887	5479	773
+tr|B7YZW2|B7YZW2_DROME Uncharacterized protein OS=Drosophila melanogaster GN=CG42231 PE=4 SV=1	27.60918469	242	51
+tr|B7YZW3|B7YZW3_DROME Uncharacterized protein, isoform E OS=Drosophila melanogaster GN=CG42389 PE=1 SV=1	223.04510758	2064	137
+tr|B7YZZ9|B7YZZ9_DROME DNA-(apurinic or apyrimidinic site) lyase OS=Drosophila melanogaster GN=Rrp1 PE=1 SV=1	77.3249611	706	119
+tr|B7Z001|B7Z001_DROME Fatty acid synthase 1, isoform C OS=Drosophila melanogaster GN=FASN1 PE=1 SV=2	277.807851	2540	256
+tr|B7Z060|B7Z060_DROME TBP-associated factor 4, isoform E OS=Drosophila melanogaster GN=Taf4 PE=1 SV=1	117.12099282	1088	97
+tr|B7Z0I8|B7Z0I8_DROME Uncharacterized protein OS=Drosophila melanogaster GN=CG42232 PE=1 SV=1	378.34701164	3441	414
+tr|B7Z0V1|B7Z0V1_DROME TBP-associated factor 7, isoform B OS=Drosophila melanogaster GN=Taf7 PE=1 SV=1	51.32624781	447	63
+tr|B7Z120|B7Z120_DROME Tousled-like kinase, isoform I OS=Drosophila melanogaster GN=Tlk PE=1 SV=1	133.83499484	1242	106
+tr|B7Z126|B7Z126_DROME Tousled-like kinase, isoform G OS=Drosophila melanogaster GN=Tlk PE=1 SV=1	162.07193168	1489	134
+tr|C0MJA0|C0MJA0_DROME CG17950-PA OS=Drosophila melanogaster GN=HmgD PE=1 SV=1	12.39027869	112	25
+tr|C9QP31|C9QP31_DROME Flo-2-PD OS=Drosophila melanogaster GN=Flo2 PE=1 SV=1	30.97125838	281	42
+tr|E1JGL5|E1JGL5_DROME CG5174, isoform L OS=Drosophila melanogaster GN=CG5174 PE=1 SV=1	22.66437673	209	24
+tr|E1JGV6|E1JGV6_DROME Nucleolar protein at 60B, isoform C OS=Drosophila melanogaster GN=Nop60B PE=1 SV=1	56.7768756	508	87
+tr|E1JH02|E1JH02_DROME Lingerer, isoform E OS=Drosophila melanogaster GN=lig PE=1 SV=1	134.46312135	1332	75
+tr|E1JH62|E1JH62_DROME Short stop, isoform N OS=Drosophila melanogaster GN=shot PE=1 SV=1	614.97655442	5388	767
+tr|E1JH63|E1JH63_DROME Short stop, isoform O OS=Drosophila melanogaster GN=shot PE=1 SV=1	627.34612545	5499	777
+tr|E1JH64|E1JH64_DROME Short stop, isoform Q OS=Drosophila melanogaster GN=shot PE=1 SV=1	588.5481575	5155	730
+tr|E1JH65|E1JH65_DROME Short stop, isoform P OS=Drosophila melanogaster GN=shot PE=1 SV=1	621.74457993	5458	773
+tr|E1JHA4|E1JHA4_DROME Heterogeneous nuclear ribonucleoprotein at 27C, isoform D OS=Drosophila melanogaster GN=Hrb27C PE=1 SV=1	44.72372843	421	31
+tr|E1JHV6|E1JHV6_DROME Enhancer of bithorax, isoform E OS=Drosophila melanogaster GN=E(bx) PE=1 SV=1	300.48184843	2669	328
+tr|E1JHV7|E1JHV7_DROME Enhancer of bithorax, isoform F OS=Drosophila melanogaster GN=E(bx) PE=1 SV=1	239.2910112	2139	255
+tr|E1JI11|E1JI11_DROME TBP-associated factor 4, isoform F OS=Drosophila melanogaster GN=Taf4 PE=1 SV=1	99.25889252	921	86
+tr|E1JI46|E1JI46_DROME Mi-2, isoform C OS=Drosophila melanogaster GN=Mi-2 PE=1 SV=1	224.04342672	1982	279
+tr|E1JIF4|E1JIF4_DROME PFTAIRE-interacting factor 1A, isoform G OS=Drosophila melanogaster GN=Pif1A PE=1 SV=2	138.90552297	1226	177
+tr|E1JIJ9|E1JIJ9_DROME FI20162p1 OS=Drosophila melanogaster GN=Su(var)3-7 PE=1 SV=1	139.68365859	1248	165
+tr|E1JIK0|E1JIK0_DROME Heterogeneous nuclear ribonucleoprotein at 87F, isoform C OS=Drosophila melanogaster GN=Hrb87F PE=1 SV=1	39.45757796	385	42
+tr|E1JIM0|E1JIM0_DROME Non-specific lethal 1, isoform E OS=Drosophila melanogaster GN=nsl1 PE=1 SV=1	167.68010269	1549	167
+tr|E1JIM1|E1JIM1_DROME Non-specific lethal 1, isoform J OS=Drosophila melanogaster GN=nsl1 PE=1 SV=1	99.01139669	936	84
+tr|E1JIM4|E1JIM4_DROME Mini spindles, isoform B OS=Drosophila melanogaster GN=msps PE=1 SV=1	226.6837995	2050	255
+tr|E1JJ68|E1JJ68_DROME Rm62, isoform H OS=Drosophila melanogaster GN=Rm62 PE=1 SV=1	62.41749105	575	80
+tr|E1JJ72|E1JJ72_DROME FI22504p1 OS=Drosophila melanogaster GN=Taf1 PE=1 SV=1	235.39464928	2096	262
+tr|E1JJD6|E1JJD6_DROME Twenty-four, isoform F OS=Drosophila melanogaster GN=tyf PE=1 SV=2	173.59590779	1667	140
+tr|E1JJL2|E1JJL2_DROME Flotillin 2, isoform G OS=Drosophila melanogaster GN=Flo2 PE=1 SV=1	37.56385132	340	50
+tr|E1JJM9|E1JJM9_DROME Ribosomal protein S15Aa, isoform F OS=Drosophila melanogaster GN=RpS15Aa PE=1 SV=1	14.74385379	130	21
+tr|E2QCP0|E2QCP0_DROME Histone H3 OS=Drosophila melanogaster GN=His3.3A PE=1 SV=2	15.30049199	136	30
+tr|E2QD64|E2QD64_DROME CG2982, isoform B OS=Drosophila melanogaster GN=CG2982 PE=1 SV=1	73.03430523	653	83
+tr|E2QD65|E2QD65_DROME Ribosomal protein S19a, isoform C OS=Drosophila melanogaster GN=RpS19a PE=1 SV=1	17.26232537	156	29
+tr|L0MQ04|L0MQ04_DROME ATP synthase subunit beta OS=Drosophila melanogaster GN=ATPsynbeta PE=1 SV=1	54.63067838	511	50
+sp|O02649|CH60_DROME 60 kDa heat shock protein, mitochondrial OS=Drosophila melanogaster GN=Hsp60 PE=1 SV=3	60.75287982	573	73
+sp|O16797|RL3_DROME 60S ribosomal protein L3 OS=Drosophila melanogaster GN=RpL3 PE=1 SV=3	46.86804214	416	84
+sp|O16797-5|RL3_DROME Isoform G of 60S ribosomal protein L3 OS=Drosophila melanogaster GN=RpL3	15.58326547	138	24
+sp|O16797-2|RL3_DROME Isoform D of 60S ribosomal protein L3 OS=Drosophila melanogaster GN=RpL3	18.10640119	161	23
+sp|O17445|RL15_DROME 60S ribosomal protein L15 OS=Drosophila melanogaster GN=RpL15 PE=1 SV=1	24.2922245	204	49
+sp|O18373|SPS1_DROME Selenide, water dikinase OS=Drosophila melanogaster GN=SelD PE=2 SV=1	43.40016541	398	38
+sp|O18404|HCD2_DROME 3-hydroxyacyl-CoA dehydrogenase type-2 OS=Drosophila melanogaster GN=scu PE=1 SV=1	26.87017401	255	27
+sp|O18640|GBLP_DROME Guanine nucleotide-binding protein subunit beta-like protein OS=Drosophila melanogaster GN=Rack1 PE=1 SV=2	35.57771097	318	33
+sp|O43790|KRT86_HUMAN Keratin, type II cuticular Hb6 OS=Homo sapiens GN=KRT86 PE=1 SV=1	53.44828753	486	61
+sp|O44081|DKC1_DROME H/ACA ribonucleoprotein complex subunit 4 OS=Drosophila melanogaster GN=Nop60B PE=1 SV=1	56.7768756	508	87
+sp|O44081-2|DKC1_DROME Isoform C of H/ACA ribonucleoprotein complex subunit 4 OS=Drosophila melanogaster GN=Nop60B	28.78863585	253	43
+sp|O44437|SMD3_DROME Small nuclear ribonucleoprotein Sm D3 OS=Drosophila melanogaster GN=SmD3 PE=1 SV=1	15.55408446	151	23
+tr|O46067|O46067_DROME CG2918, isoform A OS=Drosophila melanogaster GN=EG:25E8.1 PE=1 SV=1	103.36360913	923	123
+sp|O61231|RL10_DROME 60S ribosomal protein L10 OS=Drosophila melanogaster GN=RpL10 PE=1 SV=1	25.49314258	218	44
+tr|O61380|O61380_DROME Eukaryotic translation initiation factor 4G, isoform A OS=Drosophila melanogaster GN=eIF4G PE=1 SV=3	183.81073737	1666	187
+sp|O61492|FLOT2_DROME Flotillin-2 OS=Drosophila melanogaster GN=Flo2 PE=2 SV=3	48.1099211	438	57
+sp|O61492-2|FLOT2_DROME Isoform B of Flotillin-2 OS=Drosophila melanogaster GN=Flo2	46.55529882	425	56
+sp|O61492-3|FLOT2_DROME Isoform C of Flotillin-2 OS=Drosophila melanogaster GN=Flo2	44.6090832	401	53
+sp|O61492-4|FLOT2_DROME Isoform D of Flotillin-2 OS=Drosophila melanogaster GN=Flo2	30.97125838	281	42
+tr|O61602|O61602_DROME Apontic OS=Drosophila melanogaster GN=apt PE=1 SV=1	54.49522804	483	55
+sp|O62619|KPYK_DROME Pyruvate kinase OS=Drosophila melanogaster GN=PyK PE=2 SV=2	57.38584896	533	57
+sp|O62619-2|KPYK_DROME Isoform B of Pyruvate kinase OS=Drosophila melanogaster GN=PyK	55.00567569	512	57
+sp|O62621|COPB2_DROME Coatomer subunit beta' OS=Drosophila melanogaster GN=beta'COP PE=2 SV=2	102.630119	914	89
+sp|O76013|KRT36_HUMAN Keratin, type I cuticular Ha6 OS=Homo sapiens GN=KRT36 PE=2 SV=1	52.1959593	467	47
+sp|O76013-2|KRT36_HUMAN Isoform 2 of Keratin, type I cuticular Ha6 OS=Homo sapiens GN=KRT36	47.43661135	417	43
+sp|O95678|K2C75_HUMAN Keratin, type II cytoskeletal 75 OS=Homo sapiens GN=KRT75 PE=1 SV=2	59.50601941	551	67
+tr|O96607|O96607_DROME Homer OS=Drosophila melanogaster GN=homer PE=1 SV=1	42.66037377	394	43
+tr|O97102|O97102_DROME Small ubiquitin-related modifier OS=Drosophila melanogaster GN=smt3 PE=1 SV=1	10.09998148	90	12
+sp|O97125|HSP68_DROME Heat shock protein 68 OS=Drosophila melanogaster GN=Hsp68 PE=1 SV=1	69.68254755	635	84
+sp|O97159|CHDM_DROME Chromodomain-helicase-DNA-binding protein Mi-2 homolog OS=Drosophila melanogaster GN=Mi-2 PE=1 SV=2	224.04342672	1982	279
+sp|P00761|TRYP_PIG Trypsin OS=Sus scrofa PE=1 SV=1	24.3757944	231	15
+sp|P01030|CO4_BOVIN Complement C4 (Fragments) OS=Bos taurus GN=C4 PE=1 SV=2	101.832778986	920	102
+sp|P02255|H1_DROME Histone H1 OS=Drosophila melanogaster GN=His1 PE=1 SV=1	26.32524582	256	63
+sp|P02283|H2B_DROME Histone H2B OS=Drosophila melanogaster GN=His2B PE=1 SV=2	13.66950782	123	28
+sp|P02299|H3_DROME Histone H3 OS=Drosophila melanogaster GN=His3 PE=1 SV=4	15.36049537	136	30
+sp|P02533|K1C14_HUMAN Keratin, type I cytoskeletal 14 OS=Homo sapiens GN=KRT14 PE=1 SV=4	51.51137281	472	55
+sp|P02538|K2C6A_HUMAN Keratin, type II cytoskeletal 6A OS=Homo sapiens GN=KRT6A PE=1 SV=3	59.99026274	564	67
+sp|P02572|ACT2_DROME Actin-42A OS=Drosophila melanogaster GN=Act42A PE=1 SV=3	41.77875098	376	37
+sp|P02662|CASA1_BOVIN Alpha-S1-casein OS=Bos taurus GN=CSN1S1 PE=1 SV=2	24.49541514	214	21
+sp|P02663|CASA2_BOVIN Alpha-S2-casein OS=Bos taurus GN=CSN1S2 PE=1 SV=2	25.98425585	222	31
+sp|P02668|CASK_BOVIN Kappa-casein OS=Bos taurus GN=CSN3 PE=1 SV=1	21.23788132	190	14
+sp|P02754|LACB_BOVIN Beta-lactoglobulin OS=Bos taurus GN=LGB PE=1 SV=3	19.85225787	178	19
+sp|P02768|ALBU_HUMAN Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2	69.303484	609	83
+sp|P02768-2|ALBU_HUMAN Isoform 2 of Serum albumin OS=Homo sapiens GN=ALB	47.31168163	417	57
+sp|P02768-3|ALBU_HUMAN Isoform 3 of Serum albumin OS=Homo sapiens GN=ALB	45.11238262	396	51
+sp|P02769|ALBU_BOVIN Serum albumin OS=Bos taurus GN=ALB PE=1 SV=4	69.23042906	607	82
+sp|P02825|HSP71_DROME Major heat shock 70 kDa protein Ab OS=Drosophila melanogaster GN=Hsp70Ab PE=2 SV=3	70.09849636	642	80
+sp|P02828|HSP83_DROME Heat shock protein 83 OS=Drosophila melanogaster GN=Hsp83 PE=1 SV=1	81.7961806	717	103
+sp|P04259|K2C6B_HUMAN Keratin, type II cytoskeletal 6B OS=Homo sapiens GN=KRT6B PE=1 SV=5	60.01227946	564	67
+sp|P04264|K2C1_HUMAN Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6	65.98098928	644	66
+sp|P05205|HP1_DROME Heterochromatin protein 1 OS=Drosophila melanogaster GN=Su(var)205 PE=1 SV=2	23.15331802	206	33
+sp|P05303|EF1A2_DROME Elongation factor 1-alpha 2 OS=Drosophila melanogaster GN=Ef1alpha100E PE=2 SV=2	50.61246233	462	62
+sp|P05389|RLA2_DROME 60S acidic ribosomal protein P2 OS=Drosophila melanogaster GN=RpLP2 PE=1 SV=1	11.7319752	113	17
+sp|P05787|K2C8_HUMAN Keratin, type II cytoskeletal 8 OS=Homo sapiens GN=KRT8 PE=1 SV=7	53.65312175	483	64
+sp|P05787-2|K2C8_HUMAN Isoform 2 of Keratin, type II cytoskeletal 8 OS=Homo sapiens GN=KRT8	56.55544492	511	64
+sp|P06603|TBA1_DROME Tubulin alpha-1 chain OS=Drosophila melanogaster GN=alphaTub84B PE=1 SV=1	49.85846482	450	40
+sp|P06604|TBA2_DROME Tubulin alpha-2 chain OS=Drosophila melanogaster GN=alphaTub85E PE=1 SV=1	49.91657946	449	41
+sp|P06605|TBA3_DROME Tubulin alpha-3 chain OS=Drosophila melanogaster GN=alphaTub84D PE=2 SV=1	49.84050839	450	40
+sp|P07909|ROA1_DROME Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE PE=2 SV=1	38.99625561	365	40
+sp|P07909-2|ROA1_DROME Isoform A of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	38.99622323	364	40
+sp|P07909-3|ROA1_DROME Isoform E of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	38.50901654	360	40
+sp|P07909-4|ROA1_DROME Isoform D of Heterogeneous nuclear ribonucleoprotein A1 OS=Drosophila melanogaster GN=Hrb98DE	38.50904892	361	40
+sp|P08120|CO4A1_DROME Collagen alpha-1(IV) chain OS=Drosophila melanogaster GN=Cg25C PE=2 SV=3	174.17538334	1779	185
+sp|P08266|RPB2_DROME DNA-directed RNA polymerase II subunit RPB2 OS=Drosophila melanogaster GN=RpII140 PE=2 SV=2	133.93883615	1176	137
+sp|P08729|K2C7_HUMAN Keratin, type II cytoskeletal 7 OS=Homo sapiens GN=KRT7 PE=1 SV=5	51.33629617	469	60
+sp|P08736|EF1A1_DROME Elongation factor 1-alpha 1 OS=Drosophila melanogaster GN=Ef1alpha48D PE=1 SV=2	50.25740071	463	62
+sp|P08779|K1C16_HUMAN Keratin, type I cytoskeletal 16 OS=Homo sapiens GN=KRT16 PE=1 SV=4	51.21819126	473	49
+sp|P08928|LAM0_DROME Lamin Dm0 OS=Drosophila melanogaster GN=Lam PE=1 SV=4	71.23943484	622	98
+sp|P08985|H2AV_DROME Histone H2A.v OS=Drosophila melanogaster GN=His2Av PE=1 SV=2	14.95424564	141	25
+sp|P09180|RL4_DROME 60S ribosomal protein L4 OS=Drosophila melanogaster GN=RpL4 PE=1 SV=2	44.98004225	401	84
+sp|P0CG69|UBIQP_DROME Polyubiquitin OS=Drosophila melanogaster GN=Ubi-p63E PE=3 SV=1	85.72823975	763	111
+sp|P10987|ACT1_DROME Actin-5C OS=Drosophila melanogaster GN=Act5C PE=1 SV=4	41.77677171	376	37
+sp|P11146|HSP7B_DROME Heat shock 70 kDa protein cognate 2 OS=Drosophila melanogaster GN=Hsc70-2 PE=1 SV=2	69.66091656	633	90
+sp|P11147|HSP7D_DROME Heat shock 70 kDa protein cognate 4 OS=Drosophila melanogaster GN=Hsc70-4 PE=1 SV=3	71.06936047	651	81
+sp|P12035|K2C3_HUMAN Keratin, type II cytoskeletal 3 OS=Homo sapiens GN=KRT3 PE=1 SV=3	64.35955042	628	60
+sp|P12763|FETUA_BOVIN Alpha-2-HS-glycoprotein OS=Bos taurus GN=AHSG PE=1 SV=2	38.37636797	359	28
+sp|P13008|RS26_DROME 40S ribosomal protein S26 OS=Drosophila melanogaster GN=RpS26 PE=1 SV=1	13.24014622	114	29
+sp|P13060|EF2_DROME Elongation factor 2 OS=Drosophila melanogaster GN=EF2 PE=1 SV=4	94.38007922	844	108
+sp|P13395|SPTCA_DROME Spectrin alpha chain OS=Drosophila melanogaster GN=alpha-Spec PE=1 SV=2	278.11400356	2415	322
+sp|P13469|MODU_DROME DNA-binding protein modulo OS=Drosophila melanogaster GN=mod PE=1 SV=2	60.25514443	542	80
+sp|P13645|K1C10_HUMAN Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6	58.77368208	584	48
+sp|P13646|K1C13_HUMAN Keratin, type I cytoskeletal 13 OS=Homo sapiens GN=KRT13 PE=1 SV=4	49.53936734	458	48
+sp|P13646-2|K1C13_HUMAN Isoform 2 of Keratin, type I cytoskeletal 13 OS=Homo sapiens GN=KRT13	38.53892603	355	39
+sp|P13646-3|K1C13_HUMAN Isoform 3 of Keratin, type I cytoskeletal 13 OS=Homo sapiens GN=KRT13	45.8205857	420	46
+sp|P13647|K2C5_HUMAN Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3	62.32196539	590	67
+sp|P14130|RS14_DROME 40S ribosomal protein S14 OS=Drosophila melanogaster GN=RpS14a PE=1 SV=1	16.23667679	151	28
+sp|P15348|TOP2_DROME DNA topoisomerase 2 OS=Drosophila melanogaster GN=Top2 PE=1 SV=1	164.27482315	1447	227
+sp|P15357|RS27A_DROME Ubiquitin-40S ribosomal protein S27a OS=Drosophila melanogaster GN=RpS27A PE=1 SV=2	17.91063148	156	34
+sp|P15497|APOA1_BOVIN Apolipoprotein A-I OS=Bos taurus GN=APOA1 PE=1 SV=3	30.23989132	265	39
+sp|P17704|RS17_DROME 40S ribosomal protein S17 OS=Drosophila melanogaster GN=RpS17 PE=1 SV=2	15.25723036	131	25
+sp|P18101|RL40_DROME Ubiquitin-60S ribosomal protein L40 OS=Drosophila melanogaster GN=RpL40 PE=1 SV=2	14.70196801	128	26
+sp|P19013|K2C4_HUMAN Keratin, type II cytoskeletal 4 OS=Homo sapiens GN=KRT4 PE=1 SV=4	57.23181714	534	61
+sp|P19109|DDX17_DROME ATP-dependent RNA helicase p62 OS=Drosophila melanogaster GN=Rm62 PE=1 SV=3	78.48154072	719	99
+sp|P19109-2|DDX17_DROME Isoform C of ATP-dependent RNA helicase p62 OS=Drosophila melanogaster GN=Rm62	62.81061252	578	80
+sp|P19109-3|DDX17_DROME Isoform D of ATP-dependent RNA helicase p62 OS=Drosophila melanogaster GN=Rm62	62.41749105	575	80
+sp|P19109-4|DDX17_DROME Isoform E of ATP-dependent RNA helicase p62 OS=Drosophila melanogaster GN=Rm62	62.77272423	578	82
+sp|P19889|RLA0_DROME 60S acidic ribosomal protein P0 OS=Drosophila melanogaster GN=RpLP0 PE=1 SV=1	34.16291574	317	34
+sp|P20193|SUV37_DROME Protein suppressor of variegation 3-7 OS=Drosophila melanogaster GN=Su(var)3-7 PE=1 SV=4	139.88377468	1250	165
+sp|P20240|OTE_DROME Otefin OS=Drosophila melanogaster GN=Ote PE=1 SV=2	46.53815119	424	62
+sp|P21187|PABP_DROME Polyadenylate-binding protein OS=Drosophila melanogaster GN=pAbp PE=1 SV=3	69.86359064	634	79
+sp|P21525|FOSLA_DROME Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay PE=1 SV=4	80.51166387	755	42
+sp|P21525-2|FOSLA_DROME Isoform A of Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay	62.75502917	595	46
+sp|P21525-3|FOSLA_DROME Isoform B of Transcription factor kayak, isoforms A/B/F OS=Drosophila melanogaster GN=kay	57.42926811	546	38
+sp|P22058|CPD1_DROME Chromosomal protein D1 OS=Drosophila melanogaster GN=D1 PE=1 SV=3	36.96092715	355	50
+sp|P23226|MA205_DROME 205 kDa microtubule-associated protein OS=Drosophila melanogaster GN=Map205 PE=1 SV=2	126.57441298	1185	88
+sp|P23226-2|MA205_DROME Isoform C2 of 205 kDa microtubule-associated protein OS=Drosophila melanogaster GN=Map205	118.06209813	1109	80
+sp|P23226-3|MA205_DROME Isoform B3 of 205 kDa microtubule-associated protein OS=Drosophila melanogaster GN=Map205	124.1051067	1163	85
+sp|P24156|L2CC_DROME Protein l(2)37Cc OS=Drosophila melanogaster GN=l(2)37Cc PE=2 SV=2	30.34706761	276	27
+sp|P25007|PPIA_DROME Peptidyl-prolyl cis-trans isomerase OS=Drosophila melanogaster GN=Cyp1 PE=1 SV=2	24.63244446	227	27
+sp|P25171|RCC1_DROME Regulator of chromosome condensation OS=Drosophila melanogaster GN=Rcc1 PE=1 SV=2	58.79618892	547	73
+sp|P25822|PUM_DROME Maternal protein pumilio OS=Drosophila melanogaster GN=pum PE=1 SV=2	157.4117457	1533	85
+sp|P25822-2|PUM_DROME Isoform B of Maternal protein pumilio OS=Drosophila melanogaster GN=pum	123.42504301	1185	76
+sp|P25822-3|PUM_DROME Isoform E of Maternal protein pumilio OS=Drosophila melanogaster GN=pum	97.6750659	935	60
+sp|P26686|SRR55_DROME Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52 PE=1 SV=4	42.76975371	376	97
+sp|P26686-2|SRR55_DROME Isoform A of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	39.74029692	350	94
+sp|P26686-3|SRR55_DROME Isoform B of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	37.495519	329	88
+sp|P26686-4|SRR55_DROME Isoform D of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	15.4416866	135	25
+sp|P26686-5|SRR55_DROME Isoform E of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	40.33961088	355	96
+sp|P26686-6|SRR55_DROME Isoform F of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	16.66538182	147	26
+sp|P26686-7|SRR55_DROME Isoform G of Serine-arginine protein 55 OS=Drosophila melanogaster GN=B52	24.36057521	216	69
+sp|P26802|DDX51_DROME Probable ATP-dependent RNA helicase Dbp73D OS=Drosophila melanogaster GN=Dbp73D PE=2 SV=3	77.52403667	687	100
+sp|P27864|RRP1_DROME Recombination repair protein 1 OS=Drosophila melanogaster GN=Rrp1 PE=1 SV=2	74.57066096	679	118
+sp|P28668|SYEP_DROME Bifunctional glutamate/proline--tRNA ligase OS=Drosophila melanogaster GN=Aats-glupro PE=1 SV=2	189.27543443	1714	228
+sp|P28668-2|SYEP_DROME Isoform B of Bifunctional glutamate/proline--tRNA ligase OS=Drosophila melanogaster GN=Aats-glupro	107.75026633	996	132
+sp|P29310|1433Z_DROME 14-3-3 protein zeta OS=Drosophila melanogaster GN=14-3-3zeta PE=1 SV=1	28.19203957	248	33
+sp|P29310-2|1433Z_DROME Isoform VI' of 14-3-3 protein zeta OS=Drosophila melanogaster GN=14-3-3zeta	28.24711815	248	34
+sp|P29310-3|1433Z_DROME Isoform C of 14-3-3 protein zeta OS=Drosophila melanogaster GN=14-3-3zeta	28.26820248	248	35
+sp|P29327|RS6_DROME 40S ribosomal protein S6 OS=Drosophila melanogaster GN=RpS6 PE=1 SV=1	28.37187224	248	65
+sp|P29327-2|RS6_DROME Isoform B of 40S ribosomal protein S6 OS=Drosophila melanogaster GN=RpS6	23.03952605	200	45
+sp|P29413|CALR_DROME Calreticulin OS=Drosophila melanogaster GN=Crc PE=1 SV=2	46.76118462	406	46
+sp|P29843|HSP7A_DROME Heat shock 70 kDa protein cognate 1 OS=Drosophila melanogaster GN=Hsc70-1 PE=1 SV=1	70.62489284	641	76
+sp|P29844|HSP7C_DROME Heat shock 70 kDa protein cognate 3 OS=Drosophila melanogaster GN=Hsc70-3 PE=2 SV=2	72.1984389	656	88
+sp|P29845|HSP7E_DROME Heat shock 70 kDa protein cognate 5 OS=Drosophila melanogaster GN=Hsc70-5 PE=1 SV=2	74.00221343	686	87
+sp|P31009|RS2_DROME 40S ribosomal protein S2 OS=Drosophila melanogaster GN=RpS2 PE=1 SV=2	28.86340739	267	44
+sp|P32100|RL7_DROME 60S ribosomal protein L7 OS=Drosophila melanogaster GN=RpL7 PE=1 SV=2	29.51562956	252	59
+sp|P34955|A1AT_BOVIN Alpha-1-antiproteinase OS=Bos taurus GN=SERPINA1 PE=1 SV=1	46.05683528	416	38
+sp|P35381|ATPA_DROME ATP synthase subunit alpha, mitochondrial OS=Drosophila melanogaster GN=blw PE=1 SV=2	59.36634221	552	67
+sp|P35527|K1C9_HUMAN Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3	62.00880311	623	51
+sp|P35908|K22E_HUMAN Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2	65.37520545	639	66
+sp|P36241|RL19_DROME 60S ribosomal protein L19 OS=Drosophila melanogaster GN=RpL19 PE=1 SV=2	23.96538047	203	60
+sp|P37276|DYHC_DROME Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster GN=Dhc64C PE=2 SV=2	529.83285722	4639	557
+sp|P37276-2|DYHC_DROME Isoform C of Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster GN=Dhc64C	529.55376696	4638	558
+sp|P38979|RSSA_DROME 40S ribosomal protein SA OS=Drosophila melanogaster GN=sta PE=1 SV=2	35.30114636	313	37
+sp|P38979-2|RSSA_DROME Isoform A of 40S ribosomal protein SA OS=Drosophila melanogaster GN=sta	30.19137998	270	26
+sp|P39018|RS19A_DROME 40S ribosomal protein S19a OS=Drosophila melanogaster GN=RpS19a PE=1 SV=3	17.26232537	156	29
+sp|P40304|PSB1_DROME Proteasome subunit beta type-1 OS=Drosophila melanogaster GN=Prosbeta6 PE=2 SV=2	25.80794049	235	24
+sp|P40797|PNUT_DROME Protein peanut OS=Drosophila melanogaster GN=pnut PE=1 SV=2	60.08794089	539	78
+sp|P41042|RS4_DROME 40S ribosomal protein S4 OS=Drosophila melanogaster GN=RpS4 PE=1 SV=2	29.09791191	261	47
+sp|P41073|PEP_DROME Zinc finger protein on ecdysone puffs OS=Drosophila melanogaster GN=Pep PE=1 SV=1	77.98178859	716	101
+sp|P41073-2|PEP_DROME Isoform A of Zinc finger protein on ecdysone puffs OS=Drosophila melanogaster GN=Pep	11.58043158	109	10
+sp|P41073-3|PEP_DROME Isoform C of Zinc finger protein on ecdysone puffs OS=Drosophila melanogaster GN=Pep	75.53450705	693	98
+sp|P41092|RL27A_DROME 60S ribosomal protein L27a OS=Drosophila melanogaster GN=RpL27A PE=1 SV=2	16.99331624	149	35
+sp|P41093|RL18A_DROME 60S ribosomal protein L18a OS=Drosophila melanogaster GN=RpL18A PE=1 SV=1	20.99836481	177	40
+sp|P41094|RS18_DROME 40S ribosomal protein S18 OS=Drosophila melanogaster GN=RpS18 PE=1 SV=1	17.58263252	152	34
+sp|P41126|RL13_DROME 60S ribosomal protein L13 OS=Drosophila melanogaster GN=RpL13 PE=1 SV=1	24.91781637	218	54
+sp|P42207|SEPT1_DROME Septin-1 OS=Drosophila melanogaster GN=Sep1 PE=1 SV=1	41.08708412	361	52
+sp|P45437|COPB_DROME Coatomer subunit beta OS=Drosophila melanogaster GN=betaCOP PE=2 SV=2	107.32074027	964	99
+sp|P46222|RL11_DROME 60S ribosomal protein L11 OS=Drosophila melanogaster GN=RpL11 PE=1 SV=2	21.08122385	184	35
+sp|P46223|RL7A_DROME 60S ribosomal protein L7a OS=Drosophila melanogaster GN=RpL7A PE=1 SV=2	30.69467303	271	61
+sp|P46863|KL61_DROME Kinesin-like protein Klp61F OS=Drosophila melanogaster GN=Klp61F PE=1 SV=2	121.06952062	1066	140
+sp|P47825|TAF4_DROME Transcription initiation factor TFIID subunit 4 OS=Drosophila melanogaster GN=Taf4 PE=1 SV=1	99.25889252	921	86
+sp|P47825-2|TAF4_DROME Isoform C of Transcription initiation factor TFIID subunit 4 OS=Drosophila melanogaster GN=Taf4	91.98610595	851	83
+sp|P48149|RS15A_DROME 40S ribosomal protein S15Aa OS=Drosophila melanogaster GN=RpS15Aa PE=1 SV=2	14.74385379	130	21
+sp|P48159|RL23_DROME 60S ribosomal protein L23 OS=Drosophila melanogaster GN=RpL23 PE=1 SV=2	14.90902375	140	24
+sp|P48588|RS25_DROME 40S ribosomal protein S25 OS=Drosophila melanogaster GN=RpS25 PE=1 SV=3	13.17543005	117	32
+sp|P48591|RIR1_DROME Ribonucleoside-diphosphate reductase large subunit OS=Drosophila melanogaster GN=RnrL PE=1 SV=2	91.90113162	812	91
+sp|P48668|K2C6C_HUMAN Keratin, type II cytoskeletal 6C OS=Homo sapiens GN=KRT6C PE=1 SV=3	59.97029404	564	67
+sp|P48809|RB27C_DROME Heterogeneous nuclear ribonucleoprotein 27C OS=Drosophila melanogaster GN=Hrb27C PE=1 SV=2	44.72372843	421	31
+sp|P48810|RB87F_DROME Heterogeneous nuclear ribonucleoprotein 87F OS=Drosophila melanogaster GN=Hrb87F PE=2 SV=2	39.45757796	385	42
+sp|P48810-2|RB87F_DROME Isoform B of Heterogeneous nuclear ribonucleoprotein 87F OS=Drosophila melanogaster GN=Hrb87F	33.6320606	325	40
+sp|P49630|RL36_DROME 60S ribosomal protein L36 OS=Drosophila melanogaster GN=RpL36 PE=1 SV=1	13.4757118	115	34
+sp|P49846|TAF5_DROME Transcription initiation factor TFIID subunit 5 OS=Drosophila melanogaster GN=Taf5 PE=1 SV=1	79.25697912	704	82
+sp|P49847|TAF6_DROME Transcription initiation factor TFIID subunit 6 OS=Drosophila melanogaster GN=Taf6 PE=1 SV=2	65.59496249	606	63
+sp|P50446|K2C6A_MOUSE Keratin, type II cytoskeletal 6A OS=Mus musculus GN=Krt6a PE=1 SV=3	59.28060617	553	67
+sp|P50882|RL9_DROME 60S ribosomal protein L9 OS=Drosophila melanogaster GN=RpL9 PE=1 SV=2	21.36032222	190	32
+sp|P50887|RL22_DROME 60S ribosomal protein L22 OS=Drosophila melanogaster GN=RpL22 PE=1 SV=2	30.57386028	299	57
+sp|P51123|TAF1_DROME Transcription initiation factor TFIID subunit 1 OS=Drosophila melanogaster GN=Taf1 PE=1 SV=3	239.14857263	2129	268
+sp|P51123-2|TAF1_DROME Isoform A of Transcription initiation factor TFIID subunit 1 OS=Drosophila melanogaster GN=Taf1	232.05916049	2065	262
+sp|P51123-3|TAF1_DROME Isoform C of Transcription initiation factor TFIID subunit 1 OS=Drosophila melanogaster GN=Taf1	235.81308384	2098	268
+sp|P52172|SRP_DROME Box A-binding factor OS=Drosophila melanogaster GN=srp PE=1 SV=2	134.05880121	1264	58
+sp|P52172-2|SRP_DROME Isoform 2 of Box A-binding factor OS=Drosophila melanogaster GN=srp	133.68370188	1249	60
+sp|P52172-3|SRP_DROME Isoform 3 of Box A-binding factor OS=Drosophila melanogaster GN=srp	79.72290067	746	39
+sp|P52295|IMA_DROME Importin subunit alpha OS=Drosophila melanogaster GN=Pen PE=1 SV=2	57.76768701	522	51
+sp|P54397|FKB39_DROME 39 kDa FK506-binding nuclear protein OS=Drosophila melanogaster GN=FK506-bp1 PE=1 SV=2	39.30142182	357	49
+sp|P54399|PDI_DROME Protein disulfide-isomerase OS=Drosophila melanogaster GN=Pdi PE=2 SV=1	55.72835609	496	60
+sp|P54399-2|PDI_DROME Isoform D of Protein disulfide-isomerase OS=Drosophila melanogaster GN=Pdi	21.86697867	190	26
+sp|P54622|SSBP_DROME Single-stranded DNA-binding protein, mitochondrial OS=Drosophila melanogaster GN=mtSSB PE=1 SV=2	16.33946434	146	19
+sp|P55828|RS20_DROME 40S ribosomal protein S20 OS=Drosophila melanogaster GN=RpS20 PE=1 SV=1	13.46127165	120	22
+sp|P55830|RS3A_DROME 40S ribosomal protein S3a OS=Drosophila melanogaster GN=RpS3A PE=1 SV=4	30.30306821	268	49
+sp|P55830-2|RS3A_DROME Isoform B of 40S ribosomal protein S3a OS=Drosophila melanogaster GN=RpS3A	24.78809703	218	36
+sp|P55841|RL14_DROME 60S ribosomal protein L14 OS=Drosophila melanogaster GN=RpL14 PE=1 SV=1	19.14375537	166	43
+sp|P55935|RS9_DROME 40S ribosomal protein S9 OS=Drosophila melanogaster GN=RpS9 PE=1 SV=2	22.59161392	195	44
+sp|P60712|ACTB_BOVIN Actin, cytoplasmic 1 OS=Bos taurus GN=ACTB PE=1 SV=1	41.69171895	375	37
+sp|P78386|KRT85_HUMAN Keratin, type II cuticular Hb5 OS=Homo sapiens GN=KRT85 PE=1 SV=1	55.74846154	507	67
+sp|P81644|APOA2_BOVIN Apolipoprotein A-II OS=Bos taurus GN=APOA2 PE=1 SV=2	11.17693436	100	13
+sp|P82910|HSP70_DROME Major heat shock 70 kDa protein Aa OS=Drosophila melanogaster GN=Hsp70Aa PE=2 SV=2	70.09849636	642	80
+sp|P84040|H4_DROME Histone H4 OS=Drosophila melanogaster GN=His4 PE=1 SV=2	11.35638659	103	25
+sp|P84051|H2A_DROME Histone H2A OS=Drosophila melanogaster GN=His2A PE=1 SV=2	13.33650084	124	25
+sp|P84249|H33_DROME Histone H3.3 OS=Drosophila melanogaster GN=His3.3A PE=1 SV=2	15.30049199	136	30
+sp|P92177|1433E_DROME 14-3-3 protein epsilon OS=Drosophila melanogaster GN=14-3-3epsilon PE=1 SV=2	29.76174586	262	34
+sp|P92177-2|1433E_DROME Isoform B of 14-3-3 protein epsilon OS=Drosophila melanogaster GN=14-3-3epsilon	29.63270327	261	34
+sp|P92177-4|1433E_DROME Isoform C of 14-3-3 protein epsilon OS=Drosophila melanogaster GN=14-3-3epsilon	29.13647512	256	34
+sp|P92177-1|1433E_DROME Isoform D of 14-3-3 protein epsilon OS=Drosophila melanogaster GN=14-3-3epsilon	29.53363486	260	34
+sp|Q01546|K22O_HUMAN Keratin, type II cytoskeletal 2 oral OS=Homo sapiens GN=KRT76 PE=1 SV=2	65.78207813	638	65
+sp|Q02748|IF4A_DROME Eukaryotic initiation factor 4A OS=Drosophila melanogaster GN=eIF-4a PE=1 SV=3	45.83135066	403	47
+sp|Q03334|RS13_DROME 40S ribosomal protein S13 OS=Drosophila melanogaster GN=RpS13 PE=1 SV=3	17.1495787	151	33
+sp|Q04047|NONA_DROME Protein no-on-transient A OS=Drosophila melanogaster GN=nonA PE=1 SV=2	76.91187691	700	88
+sp|Q04047-2|NONA_DROME Isoform 2 of Protein no-on-transient A OS=Drosophila melanogaster GN=nonA	76.95312668	698	88
+sp|Q04695|K1C17_HUMAN Keratin, type I cytoskeletal 17 OS=Homo sapiens GN=KRT17 PE=1 SV=2	48.05803291	432	52
+sp|Q05783|HMGD_DROME High mobility group protein D OS=Drosophila melanogaster GN=HmgD PE=1 SV=1	12.39027869	112	25
+sp|Q05825|ATPB_DROME ATP synthase subunit beta, mitochondrial OS=Drosophila melanogaster GN=ATPsynbeta PE=1 SV=3	54.05640328	505	50
+tr|Q05B55|Q05B55_BOVIN IGK protein OS=Bos taurus GN=IGK PE=2 SV=1	26.55624446	240	21
+sp|Q06559|RS3_DROME 40S ribosomal protein S3 OS=Drosophila melanogaster GN=RpS3 PE=1 SV=1	27.43561384	246	41
+sp|Q08473|SQD_DROME RNA-binding protein squid OS=Drosophila melanogaster GN=sqd PE=1 SV=3	36.14412895	344	43
+sp|Q08473-2|SQD_DROME Isoform A of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	34.96352819	321	39
+sp|Q08473-3|SQD_DROME Isoform C of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	33.01579985	308	40
+sp|Q08473-4|SQD_DROME Isoform D of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	18.23639151	178	23
+tr|Q0E8S7|Q0E8S7_DROME Homer, isoform E OS=Drosophila melanogaster GN=homer PE=1 SV=2	57.3100361154	531	57
+tr|Q0E924|Q0E924_DROME LD46344p OS=Drosophila melanogaster GN=Phb2 PE=1 SV=2	33.02771832	299	39
+sp|Q0E9B6|RS11_DROME 40S ribosomal protein S11 OS=Drosophila melanogaster GN=RpS11 PE=1 SV=1	18.0758897	155	39
+tr|Q0KI68|Q0KI68_DROME Non-specific lethal 1, isoform F OS=Drosophila melanogaster GN=nsl1 PE=1 SV=2	167.60906558	1548	167
+sp|Q14532|K1H2_HUMAN Keratin, type I cuticular Ha2 OS=Homo sapiens GN=KRT32 PE=2 SV=3	50.29214463	448	41
+sp|Q14533|KRT81_HUMAN Keratin, type II cuticular Hb1 OS=Homo sapiens GN=KRT81 PE=1 SV=3	54.87475706	505	58
+sp|Q148H6|K1C28_BOVIN Keratin, type I cytoskeletal 28 OS=Bos taurus GN=KRT28 PE=2 SV=1	50.72599189	464	50
+tr|Q1RL19|Q1RL19_DROME LD15160p OS=Drosophila melanogaster GN=Tlk PE=1 SV=1	135.45091152	1255	111
+tr|Q1RMN8|Q1RMN8_BOVIN Immunoglobulin light chain, lambda gene cluster OS=Bos taurus GN=IGL@ PE=2 SV=1	24.50300453	234	16
+tr|Q24090|Q24090_DROME GH08712p OS=Drosophila melanogaster GN=Snr1 PE=1 SV=2	41.86684039	370	42
+sp|Q24208|IF2G_DROME Eukaryotic translation initiation factor 2 subunit 3 OS=Drosophila melanogaster GN=eIF-2gamma PE=2 SV=1	51.43447234	475	54
+sp|Q24208-2|IF2G_DROME Isoform C of Eukaryotic translation initiation factor 2 subunit 3 OS=Drosophila melanogaster GN=eIF-2gamma	50.42899962	467	53
+sp|Q24319|OST48_DROME Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit OS=Drosophila melanogaster GN=Ost48 PE=2 SV=2	49.93149464	449	42
+sp|Q24325|TAF2_DROME Transcription initiation factor TFIID subunit 2 OS=Drosophila melanogaster GN=Taf2 PE=1 SV=2	139.39263252	1221	145
+sp|Q24368|ISWI_DROME Chromatin-remodeling complex ATPase chain Iswi OS=Drosophila melanogaster GN=Iswi PE=1 SV=1	118.78092926	1027	163
+sp|Q24478|CP190_DROME Centrosome-associated zinc finger protein CP190 OS=Drosophila melanogaster GN=Cp190 PE=1 SV=2	121.58696321	1096	107
+sp|Q24560|TBB1_DROME Tubulin beta-1 chain OS=Drosophila melanogaster GN=betaTub56D PE=1 SV=2	50.09712905	447	37
+sp|Q24572|CAF1_DROME Probable histone-binding protein Caf1 OS=Drosophila melanogaster GN=Caf1 PE=1 SV=1	48.58649527	430	33
+sp|Q26365|ADT_DROME ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB PE=2 SV=4	34.17476158	312	40
+sp|Q26365-2|ADT_DROME Isoform A of ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB	32.87012213	299	39
+sp|Q27268|DX39B_DROME ATP-dependent RNA helicase WM6 OS=Drosophila melanogaster GN=Hel25E PE=1 SV=1	48.6026402	424	50
+sp|Q27272|TAF9_DROME Transcription initiation factor TFIID subunit 9 OS=Drosophila melanogaster GN=e(y)1 PE=1 SV=1	29.2782751	278	35
+sp|Q29443|TRFE_BOVIN Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1	77.68472754	704	83
+sp|Q2M2I5|K1C24_HUMAN Keratin, type I cytoskeletal 24 OS=Homo sapiens GN=KRT24 PE=1 SV=1	55.03542623	525	53
+sp|Q2UVX4|CO3_BOVIN Complement C3 OS=Bos taurus GN=C3 PE=1 SV=2	187.11724006	1661	195
+sp|Q32PJ2|APOA4_BOVIN Apolipoprotein A-IV OS=Bos taurus GN=APOA4 PE=2 SV=1	42.97342914	380	50
+tr|Q3KNV1|Q3KNV1_HUMAN KRT7 protein OS=Homo sapiens GN=KRT7 PE=2 SV=1	15.0054916	132	17
+sp|Q5KR48|TPM2_BOVIN Tropomyosin beta chain OS=Bos taurus GN=TPM2 PE=2 SV=1	32.79854015	284	54
+sp|Q5KR48-2|TPM2_BOVIN Isoform 2 of Tropomyosin beta chain OS=Bos taurus GN=TPM2	32.97355656	284	54
+sp|Q3SZ57|FETA_BOVIN Alpha-fetoprotein OS=Bos taurus GN=AFP PE=2 SV=1	68.52511301	610	65
+sp|Q3TTY5|K22E_MOUSE Keratin, type II cytoskeletal 2 epidermal OS=Mus musculus GN=Krt2 PE=1 SV=1	70.861827	707	72
+tr|Q3YMU0|Q3YMU0_DROME Protein disulfide-isomerase (Fragment) OS=Drosophila melanogaster GN=ERp60 PE=1 SV=1	55.31809478	489	67
+sp|Q497I4|KRT35_MOUSE Keratin, type I cuticular Ha5 OS=Mus musculus GN=Krt35 PE=1 SV=1	50.47945303	455	51
+tr|Q4AB54|Q4AB54_DROME Histone H1 OS=Drosophila melanogaster GN=His1:CG33861 PE=3 SV=1	26.33926147	256	63
+tr|Q4AB57|Q4AB57_DROME Histone H2A OS=Drosophila melanogaster GN=His2A:CG33859 PE=3 SV=1	13.33748485	124	25
+tr|Q4AB94|Q4AB94_DROME Histone H1 OS=Drosophila melanogaster GN=His1:CG33834 PE=3 SV=1	26.25516757	256	63
+tr|Q4ABD8|Q4ABD8_DROME Histone H1 OS=Drosophila melanogaster GN=His1:CG33807 PE=3 SV=1	26.32619345	256	62
+tr|Q59E29|Q59E29_DROME Failed axon connections, isoform D OS=Drosophila melanogaster GN=fax PE=1 SV=1	32.05928547	279	40
+tr|Q59E30|Q59E30_DROME Failed axon connections, isoform C OS=Drosophila melanogaster GN=fax PE=1 SV=1	46.59659374	415	57
+tr|Q59E34|Q59E34_DROME Mi-2, isoform B OS=Drosophila melanogaster GN=Mi-2 PE=1 SV=1	224.1714853	1983	279
+tr|Q59E58|Q59E58_DROME Zipper, isoform C OS=Drosophila melanogaster GN=zip PE=1 SV=1	226.76013189	1971	324
+tr|Q59E59|Q59E59_DROME Zipper, isoform D OS=Drosophila melanogaster GN=zip PE=1 SV=1	231.91486601	2016	332
+sp|Q5D862|FILA2_HUMAN Filaggrin-2 OS=Homo sapiens GN=FLG2 PE=1 SV=1	247.9098027	2391	171
+tr|Q5U156|Q5U156_DROME RE01954p OS=Drosophila melanogaster GN=row PE=1 SV=1	143.57181641	1281	134
+sp|Q5XKE5|K2C79_HUMAN Keratin, type II cytoskeletal 79 OS=Homo sapiens GN=KRT79 PE=1 SV=2	57.78216266	535	62
+sp|Q5XQN5|K2C5_BOVIN Keratin, type II cytoskeletal 5 OS=Bos taurus GN=KRT5 PE=1 SV=1	62.88032212	601	67
+tr|Q61726|Q61726_MOUSE Keratin type II (Fragment) OS=Mus musculus GN=Krt83 PE=2 SV=1	54.84966588	495	65
+sp|Q6IFX2|K1C42_MOUSE Keratin, type I cytoskeletal 42 OS=Mus musculus GN=Krt42 PE=1 SV=1	50.0838806	452	55
+sp|P78385|KRT83_HUMAN Keratin, type II cuticular Hb3 OS=Homo sapiens GN=KRT83 PE=1 SV=2	54.14249794	493	57
+sp|Q6NXH9|K2C73_MOUSE Keratin, type II cytoskeletal 73 OS=Mus musculus GN=Krt73 PE=1 SV=1	58.8566848	539	71
+tr|Q76NQ0|Q76NQ0_DROME Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Drosophila melanogaster GN=CG33303 PE=1 SV=1	51.65941836	458	42
+tr|Q7JQN4|Q7JQN4_DROME LD15481p OS=Drosophila melanogaster GN=Rs1 PE=1 SV=1	87.76753188	782	141
+tr|Q7JQT9|Q7JQT9_DROME CG1671 OS=Drosophila melanogaster GN=CG1671 PE=1 SV=1	88.46295003	787	84
+tr|Q7JR58|Q7JR58_DROME CG6543, isoform A OS=Drosophila melanogaster GN=CG6543 PE=1 SV=1	31.54411723	295	32
+sp|Q7JRE4|MAN1_DROME Inner nuclear membrane protein Man1 OS=Drosophila melanogaster GN=MAN1 PE=1 SV=1	73.81435322	650	88
+tr|Q7JRI6|Q7JRI6_DROME CG5174, isoform H OS=Drosophila melanogaster GN=CG5174 PE=1 SV=1	20.29718816	188	23
+sp|Q7JVI3|EIF3M_DROME Eukaryotic translation initiation factor 3 subunit M OS=Drosophila melanogaster GN=Tango7 PE=2 SV=1	44.0406017	387	41
+tr|Q7JVL3|Q7JVL3_DROME GM13395p OS=Drosophila melanogaster GN=Prp38 PE=1 SV=1	40.04531961	330	75
+tr|Q7JZD3|Q7JZD3_DROME Eb1, isoform A OS=Drosophila melanogaster GN=Eb1 PE=1 SV=1	32.53696703	291	32
+tr|Q7K012|Q7K012_DROME Brahma associated protein 55kD OS=Drosophila melanogaster GN=Bap55 PE=1 SV=1	47.27141982	425	40
+tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1	59.37988062	564	64
+tr|Q7K110|Q7K110_DROME LD18774p OS=Drosophila melanogaster GN=OstDelta PE=1 SV=1	69.16898311	634	67
+tr|Q7K180|Q7K180_DROME LD02709p OS=Drosophila melanogaster GN=Map60 PE=1 SV=1	47.54315743	440	46
+sp|Q7K284|CLP1_DROME Protein CLP1 homolog OS=Drosophila melanogaster GN=cbc PE=2 SV=1	46.74288563	423	44
+sp|Q7K2B0|RRP8_DROME Ribosomal RNA-processing protein 8 OS=Drosophila melanogaster GN=CG7137 PE=1 SV=1	40.24504488	358	56
+tr|Q7K3J0|Q7K3J0_DROME CG8258 OS=Drosophila melanogaster GN=CG8258 PE=1 SV=1	59.37759919	546	64
+sp|Q7K4H4|NO66_DROME Bifunctional lysine-specific demethylase and histidyl-hydroxylase NO66 OS=Drosophila melanogaster GN=CG2982 PE=1 SV=1	73.03430523	653	83
+tr|Q7KLX3|Q7KLX3_DROME GM12291p OS=Drosophila melanogaster GN=Tapdelta PE=1 SV=1	17.5719944	166	18
+tr|Q7KM15|Q7KM15_DROME Transcription factor BTF3 OS=Drosophila melanogaster GN=bic PE=1 SV=1	17.70931313	169	23
+tr|Q7KNS5|Q7KNS5_DROME Quaking related 54B, isoform A OS=Drosophila melanogaster GN=qkr54B PE=1 SV=1	46.44966627	428	51
+sp|Q7KR04|RS15B_DROME 40S ribosomal protein S15Ab OS=Drosophila melanogaster GN=RpS15Ab PE=2 SV=3	14.71384322	130	21
+sp|Q7KRY6|NHK1_DROME Nucleosomal histone kinase 1 OS=Drosophila melanogaster GN=ball PE=1 SV=1	65.93463202	599	98
+tr|Q7KSA0|Q7KSA0_DROME Syncrip, isoform B OS=Drosophila melanogaster GN=Syp PE=1 SV=1	77.48797005	711	89
+tr|Q7KSF4|Q7KSF4_DROME Cheerio, isoform G OS=Drosophila melanogaster GN=cher PE=1 SV=2	258.962014	2399	246
+tr|Q7KSN0|Q7KSN0_DROME SD10773p OS=Drosophila melanogaster GN=MBD-R2 PE=2 SV=1	119.76042651	1081	129
+tr|Q7KSU6|Q7KSU6_DROME CG8036, isoform D OS=Drosophila melanogaster GN=CG8036 PE=1 SV=1	62.98643317	580	58
+tr|Q7KTV5|Q7KTV5_DROME Nopp140, isoform B OS=Drosophila melanogaster GN=Nopp140 PE=1 SV=1	70.54243714	686	111
+tr|Q7KU78|Q7KU78_DROME Uncharacterized protein, isoform C OS=Drosophila melanogaster GN=CG10077 PE=1 SV=1	51.10780282	472	49
+tr|Q7KUX7|Q7KUX7_DROME FI04456p OS=Drosophila melanogaster GN=Rbp2 PE=1 SV=1	38.22247051	358	48
+tr|Q7KV69|Q7KV69_DROME Karst, isoform B OS=Drosophila melanogaster GN=kst PE=1 SV=1	473.73947093	4118	600
+tr|Q7KV70|Q7KV70_DROME Karst, isoform C OS=Drosophila melanogaster GN=kst PE=1 SV=1	483.37179207	4207	604
+tr|Q7PL76|Q7PL76_DROME LD33620p OS=Drosophila melanogaster GN=lt PE=1 SV=2	96.84493253	841	94
+sp|Q7Z3Y7|K1C28_HUMAN Keratin, type I cytoskeletal 28 OS=Homo sapiens GN=KRT28 PE=1 SV=2	50.51790798	464	48
+sp|Q7Z3Y8|K1C27_HUMAN Keratin, type I cytoskeletal 27 OS=Homo sapiens GN=KRT27 PE=1 SV=2	49.77353566	459	47
+sp|Q7Z3Z0|K1C25_HUMAN Keratin, type I cytoskeletal 25 OS=Homo sapiens GN=KRT25 PE=1 SV=1	49.26936802	450	46
+sp|Q7Z794|K2C1B_HUMAN Keratin, type II cytoskeletal 1b OS=Homo sapiens GN=KRT77 PE=2 SV=3	61.84549878	578	59
+sp|Q86B47|Y8611_DROME Probable ATP-dependent RNA helicase CG8611 OS=Drosophila melanogaster GN=CG8611 PE=1 SV=1	107.88396875	975	144
+sp|Q86B47-2|Y8611_DROME Isoform A of Probable ATP-dependent RNA helicase CG8611 OS=Drosophila melanogaster GN=CG8611	107.75591017	974	144
+sp|Q86B87|MMD4_DROME Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4) PE=1 SV=1	67.11186896	610	60
+sp|Q86B87-16|MMD4_DROME Isoform 53.1 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	53.11177091	486	44
+sp|Q86B87-28|MMD4_DROME Isoform 53.6 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	53.54710107	490	44
+sp|Q86B87-23|MMD4_DROME Isoform 54.7 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	54.714901	500	46
+sp|Q86B87-13|MMD4_DROME Isoform 55.6 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	55.5863728	505	50
+sp|Q86B87-25|MMD4_DROME Isoform 59.0 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	57.42307529	526	46
+sp|Q86B87-4|MMD4_DROME Isoform 62.3 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	62.2427395	567	51
+sp|Q86B87-17|MMD4_DROME Isoform A of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	53.33618861	485	43
+sp|Q86B87-29|MMD4_DROME Isoform AA of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	53.45797894	488	41
+sp|Q86B87-30|MMD4_DROME Isoform AC of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	59.28690901	540	45
+sp|Q86B87-31|MMD4_DROME Isoform AB of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	55.15598319	506	40
+sp|Q86B87-27|MMD4_DROME Isoform B of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	54.5407154	498	43
+sp|Q86B87-9|MMD4_DROME Isoform C of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	58.01970887	534	44
+sp|Q86B87-24|MMD4_DROME Isoform D of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	57.34571562	520	44
+sp|Q86B87-2|MMD4_DROME Isoform E of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	64.90781939	603	42
+sp|Q86B87-8|MMD4_DROME Isoform F of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	58.56272507	536	46
+sp|Q86B87-15|MMD4_DROME Isoform G of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	54.21859874	497	45
+sp|Q86B87-10|MMD4_DROME Isoform H of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	56.35839054	514	44
+sp|Q86B87-6|MMD4_DROME Isoform I of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	59.0330464	541	51
+sp|Q86B87-19|MMD4_DROME Isoform J of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	51.32991831	473	39
+sp|Q86B87-11|MMD4_DROME Isoform K of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	55.71819032	510	45
+sp|Q86B87-18|MMD4_DROME Isoform L of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	52.2044289	476	40
+sp|Q86B87-14|MMD4_DROME Isoform M of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	55.27900618	503	46
+sp|Q86B87-3|MMD4_DROME Isoform N of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	64.13250182	580	57
+sp|Q86B87-5|MMD4_DROME Isoform O of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	60.11209156	545	46
+sp|Q86B87-7|MMD4_DROME Isoform P of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	58.73577691	539	48
+sp|Q86B87-21|MMD4_DROME Isoform Q of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	46.31928465	430	31
+sp|Q86B87-20|MMD4_DROME Isoform R of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	52.0235255	475	46
+sp|Q86B87-12|MMD4_DROME Isoform S of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	55.20908876	506	45
+sp|Q86B87-26|MMD4_DROME Isoform mod1.8 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	66.73991206	613	50
+sp|Q86B87-22|MMD4_DROME Isoform mod1.9 of Modifier of mdg4 OS=Drosophila melanogaster GN=mod(mdg4)	57.76012075	520	50
+sp|Q86BA1|MICAL_DROME Protein-methionine sulfoxide oxidase Mical OS=Drosophila melanogaster GN=Mical PE=1 SV=1	524.70655509	4723	624
+sp|Q86BA1-2|MICAL_DROME Isoform E of Protein-methionine sulfoxide oxidase Mical OS=Drosophila melanogaster GN=Mical	301.27978756	2734	309
+sp|Q86BA1-3|MICAL_DROME Isoform B of Protein-methionine sulfoxide oxidase Mical OS=Drosophila melanogaster GN=Mical	332.27969056	3002	362
+sp|Q86BA1-4|MICAL_DROME Isoform I of Protein-methionine sulfoxide oxidase Mical OS=Drosophila melanogaster GN=Mical	88.78850019	789	93
+sp|Q86BA1-5|MICAL_DROME Isoform A of Protein-methionine sulfoxide oxidase Mical OS=Drosophila melanogaster GN=Mical	91.35580735	810	99
+tr|Q86BI3|Q86BI3_DROME Zinc-finger protein at 72D, isoform B OS=Drosophila melanogaster GN=Zn72D PE=1 SV=1	95.95044043	884	103
+tr|Q86BI4|Q86BI4_DROME Failed axon connections, isoform B OS=Drosophila melanogaster GN=fax PE=1 SV=1	32.52049177	282	40
+tr|Q86BP1|Q86BP1_DROME 3-hydroxyisobutyryl-CoA hydrolase, mitochondrial OS=Drosophila melanogaster GN=CG5044-RB PE=1 SV=1	42.8301573	386	44
+tr|Q86BS3|Q86BS3_DROME Chromator, isoform A OS=Drosophila melanogaster GN=Chro PE=1 SV=1	100.97317804	926	96
+sp|Q86NP2|NELFA_DROME Negative elongation factor A OS=Drosophila melanogaster GN=Nelf-A PE=1 SV=2	134.84880928	1251	101
+sp|Q86S05|LIG_DROME Protein lingerer OS=Drosophila melanogaster GN=lig PE=1 SV=1	139.38948677	1375	73
+sp|Q86S05-2|LIG_DROME Isoform A of Protein lingerer OS=Drosophila melanogaster GN=lig	135.74575263	1343	78
+sp|Q86S05-3|LIG_DROME Isoform B of Protein lingerer OS=Drosophila melanogaster GN=lig	134.46312135	1332	75
+sp|Q86YZ3|HORN_HUMAN Hornerin OS=Homo sapiens GN=HRNR PE=1 SV=2	282.20961599	2850	183
+sp|Q8BGZ7|K2C75_MOUSE Keratin, type II cytoskeletal 75 OS=Mus musculus GN=Krt75 PE=1 SV=1	59.68590311	551	69
+sp|Q8I0G5|COPG_DROME Coatomer subunit gamma OS=Drosophila melanogaster GN=gammaCOP PE=2 SV=1	97.61038179	883	85
+sp|Q8I0G5-2|COPG_DROME Isoform A of Coatomer subunit gamma OS=Drosophila melanogaster GN=gammaCOP	97.19706498	879	85
+sp|Q8I0G5-3|COPG_DROME Isoform C of Coatomer subunit gamma OS=Drosophila melanogaster GN=gammaCOP	97.12602787	878	85
+tr|Q8IGP5|Q8IGP5_DROME Chromatin-linked adaptor for MSL proteins, isoform B OS=Drosophila melanogaster GN=Clamp PE=1 SV=1	61.70032066	566	53
+tr|Q8IMF5|Q8IMF5_DROME Microtubule-associated protein 205, isoform B OS=Drosophila melanogaster GN=Map205 PE=1 SV=1	126.57441298	1185	88
+tr|Q8IMV6|Q8IMV6_DROME Scaffold attachment factor B, isoform B OS=Drosophila melanogaster GN=Saf-B PE=1 SV=2	101.99653176	928	166
+tr|Q8IMZ4|Q8IMZ4_DROME P53 protein long form variant 1 OS=Drosophila melanogaster GN=p53 PE=2 SV=2	55.51140704	495	58
+tr|Q8IN47|Q8IN47_DROME Syncrip, isoform A OS=Drosophila melanogaster GN=Syp PE=1 SV=2	63.19005148	563	80
+tr|Q8IN48|Q8IN48_DROME Syncrip, isoform E OS=Drosophila melanogaster GN=Syp PE=1 SV=1	63.80747193	571	83
+sp|Q8INI8|HSP72_DROME Major heat shock 70 kDa protein Ba OS=Drosophila melanogaster GN=Hsp70Ba PE=2 SV=2	70.13346812	641	80
+sp|Q8INM3|SLE_DROME Protein slender lobes OS=Drosophila melanogaster GN=sle PE=1 SV=1	158.53929591	1420	210
+sp|Q8INM3-2|SLE_DROME Isoform B of Protein slender lobes OS=Drosophila melanogaster GN=sle	159.68574966	1430	212
+tr|Q8IPE8|Q8IPE8_DROME Mitochondrial trifunctional protein alpha subunit, isoform B OS=Drosophila melanogaster GN=Mtpalpha PE=1 SV=1	79.57022655	744	89
+tr|Q8IQU2|Q8IQU2_DROME CG8765, isoform B OS=Drosophila melanogaster GN=CG8765 PE=1 SV=2	67.59947683	600	48
+tr|Q8IQV5|Q8IQV5_DROME LD13191p OS=Drosophila melanogaster GN=CG17233 PE=1 SV=2	83.44240874	772	37
+tr|Q8IQV6|Q8IQV6_DROME Uncharacterized protein, isoform A OS=Drosophila melanogaster GN=CG17233 PE=1 SV=1	130.28944404	1173	89
+tr|Q8IR13|Q8IR13_DROME RNA-binding protein 2, isoform B OS=Drosophila melanogaster GN=Rbp2 PE=1 SV=1	34.86598676	324	44
+tr|Q8IR16|Q8IR16_DROME No on or off transient A, isoform B OS=Drosophila melanogaster GN=nonA PE=1 SV=1	81.91885235	742	94
+sp|Q8IRG6|SPT16_DROME FACT complex subunit spt16 OS=Drosophila melanogaster GN=dre4 PE=1 SV=2	123.48806841	1083	160
+sp|Q8IRG6-2|SPT16_DROME Isoform A of FACT complex subunit spt16 OS=Drosophila melanogaster GN=dre4	127.68308954	1122	169
+sp|Q8IRH5|Y2199_DROME Zinc finger protein CG2199 OS=Drosophila melanogaster GN=CG2199 PE=1 SV=1	81.92252655	733	122
+sp|Q8IRH5-2|Y2199_DROME Isoform A of Zinc finger protein CG2199 OS=Drosophila melanogaster GN=CG2199	80.83599513	724	121
+tr|Q8IRT7|Q8IRT7_DROME Tousled-like kinase, isoform C OS=Drosophila melanogaster GN=Tlk PE=1 SV=4	135.35082609	1254	111
+tr|Q8IRT8|Q8IRT8_DROME Tousled-like kinase, isoform B OS=Drosophila melanogaster GN=Tlk PE=1 SV=3	160.21305195	1463	124
+tr|Q8MLR4|Q8MLR4_DROME Apontic, isoform E OS=Drosophila melanogaster GN=apt PE=1 SV=1	52.89748341	469	54
+sp|Q8MLY8|RS8_DROME 40S ribosomal protein S8 OS=Drosophila melanogaster GN=RpS8 PE=1 SV=1	23.72690305	208	49
+tr|Q8MQK4|Q8MQK4_DROME Uridine kinase OS=Drosophila melanogaster GN=l(2)k01209 PE=1 SV=1	69.9390822	626	70
+sp|Q8MSS1|LVA_DROME Protein lava lamp OS=Drosophila melanogaster GN=lva PE=1 SV=2	315.69147368	2779	331
+sp|Q8MSV2|SHEP_DROME Protein alan shepard OS=Drosophila melanogaster GN=shep PE=1 SV=2	62.11728854	590	37
+sp|Q8MSV2-1|SHEP_DROME Isoform A of Protein alan shepard OS=Drosophila melanogaster GN=shep	60.63259094	578	37
+sp|Q8MSV2-2|SHEP_DROME Isoform B of Protein alan shepard OS=Drosophila melanogaster GN=shep	52.96888055	499	31
+sp|Q8MSV2-4|SHEP_DROME Isoform E of Protein alan shepard OS=Drosophila melanogaster GN=shep	41.22130333	379	29
+sp|Q8MSV2-6|SHEP_DROME Isoform I of Protein alan shepard OS=Drosophila melanogaster GN=shep	40.96518617	377	29
+sp|Q8MSV2-7|SHEP_DROME Isoform H of Protein alan shepard OS=Drosophila melanogaster GN=shep	40.30189976	371	29
+sp|Q8MT06|GNL3_DROME Guanine nucleotide-binding protein-like 3 homolog OS=Drosophila melanogaster GN=Ns1 PE=1 SV=2	65.92549576	581	114
+tr|Q8MZI3|Q8MZI3_DROME GH10652p OS=Drosophila melanogaster GN=CG10077 PE=1 SV=1	88.13710651	818	70
+sp|Q8N1N4|K2C78_HUMAN Keratin, type II cytoskeletal 78 OS=Homo sapiens GN=KRT78 PE=2 SV=2	56.8124809	520	61
+sp|Q8N1N4-2|K2C78_HUMAN Isoform 2 of Keratin, type II cytoskeletal 78 OS=Homo sapiens GN=KRT78	44.97149303	410	47
+tr|Q8STG9|Q8STG9_DROME DSec61alpha OS=Drosophila melanogaster GN=Sec61alpha PE=1 SV=1	52.13252869	476	35
+sp|Q8SWR8|ATX2_DROME Ataxin-2 homolog OS=Drosophila melanogaster GN=Atx2 PE=1 SV=1	117.48803624	1084	71
+sp|Q8SWR8-2|ATX2_DROME Isoform A of Ataxin-2 homolog OS=Drosophila melanogaster GN=Atx2	96.59826667	888	68
+sp|Q8SWR8-3|ATX2_DROME Isoform C of Ataxin-2 homolog OS=Drosophila melanogaster GN=Atx2	111.32205779	1023	66
+sp|Q8SXY6|TMEDA_DROME Transmembrane emp24 domain-containing protein bai OS=Drosophila melanogaster GN=bai PE=2 SV=1	23.6582154	206	30
+tr|Q8SY53|Q8SY53_DROME GH11935p OS=Drosophila melanogaster GN=Ostgamma PE=1 SV=1	36.96839851	330	33
+sp|Q8T079|GLYR1_DROME Putative oxidoreductase GLYR1 homolog OS=Drosophila melanogaster GN=CG4747 PE=1 SV=1	65.19294131	602	69
+tr|Q8T0Q2|Q8T0Q2_DROME CG9775, isoform D OS=Drosophila melanogaster GN=CG9775 PE=1 SV=1	34.1185961	315	77
+tr|Q8T3L1|Q8T3L1_DROME Acyl-CoA synthetase long-chain, isoform A OS=Drosophila melanogaster GN=Acsl PE=1 SV=1	80.30862653	715	94
+sp|Q8T3U2|RS23_DROME 40S ribosomal protein S23 OS=Drosophila melanogaster GN=RpS23 PE=1 SV=1	15.98881195	143	32
+tr|Q8T6I0|Q8T6I0_DROME EH domain containing protein OS=Drosophila melanogaster GN=Past1 PE=1 SV=1	60.94870594	534	72
+tr|Q8T8W3|Q8T8W3_DROME AT21416p OS=Drosophila melanogaster GN=Past1 PE=1 SV=1	61.52397226	540	72
+tr|Q8T9L6|Q8T9L6_DROME GM01240p OS=Drosophila melanogaster GN=CG13900 PE=2 SV=1	76.91118522	688	66
+sp|Q922U2|K2C5_MOUSE Keratin, type II cytoskeletal 5 OS=Mus musculus GN=Krt5 PE=1 SV=1	61.71057351	580	67
+sp|Q94518|NACA_DROME Nascent polypeptide-associated complex subunit alpha OS=Drosophila melanogaster GN=Nacalpha PE=1 SV=2	22.98873377	217	25
+sp|Q94522|SUCA_DROME Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial OS=Drosophila melanogaster GN=Scsalpha PE=2 SV=3	34.34911433	328	38
+tr|Q94883|Q94883_DROME DNA replication-related element factor, isoform A OS=Drosophila melanogaster GN=Dref PE=1 SV=2	80.65788591	709	77
+sp|Q94920|VDAC_DROME Voltage-dependent anion-selective channel OS=Drosophila melanogaster GN=porin PE=1 SV=3	30.51344698	282	30
+sp|Q95028|LDH_DROME L-lactate dehydrogenase OS=Drosophila melanogaster GN=ImpL3 PE=2 SV=1	35.49656662	332	30
+tr|Q95RG1|Q95RG1_DROME LD32106p OS=Drosophila melanogaster GN=RpS9 PE=1 SV=1	16.29423928	137	32
+sp|Q95RI5|FAXC_DROME Failed axon connections OS=Drosophila melanogaster GN=fax PE=1 SV=1	47.05780004	418	57
+tr|Q95RL2|Q95RL2_DROME LD21608p OS=Drosophila melanogaster GN=row PE=1 SV=1	66.97281796	602	78
+tr|Q95TP9|Q95TP9_DROME 40S ribosomal protein S6 OS=Drosophila melanogaster GN=RpS6 PE=1 SV=1	24.66294503	217	59
+tr|Q95TU2|Q95TU2_DROME CG6686, isoform A OS=Drosophila melanogaster GN=CG6686 PE=1 SV=1	112.48920444	970	197
+tr|Q95U20|Q95U20_DROME GH13793p OS=Drosophila melanogaster GN=Opa1 PE=1 SV=1	107.11835564	933	146
+tr|Q95WY3|Q95WY3_DROME FI04781p OS=Drosophila melanogaster GN=Nop56 PE=1 SV=1	54.7847758	496	75
+tr|Q960D3|Q960D3_DROME SD06613p OS=Drosophila melanogaster GN=vig2 PE=1 SV=1	45.17426012	412	70
+tr|Q960K8|Q960K8_DROME 3-hydroxyisobutyryl-CoA hydrolase, mitochondrial OS=Drosophila melanogaster GN=CG5044 PE=1 SV=1	42.70209872	385	44
+tr|Q960Y8|Q960Y8_DROME Aluminum tubes, isoform G OS=Drosophila melanogaster GN=alt PE=1 SV=1	98.51641075	874	118
+sp|Q960Z0|KI10A_DROME Kinesin-like protein Klp10A OS=Drosophila melanogaster GN=Klp10A PE=1 SV=1	88.59808365	805	88
+sp|Q99323|MYSN_DROME Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip PE=1 SV=2	236.48024411	2057	335
+sp|Q99323-1|MYSN_DROME Isoform 1 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	231.92997214	2017	331
+sp|Q99323-2|MYSN_DROME Isoform 2 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	226.77523802	1972	323
+sp|Q99323-4|MYSN_DROME Isoform 4 of Myosin heavy chain, non-muscle OS=Drosophila melanogaster GN=zip	231.32550999	2012	327
+sp|Q9BIR7|HSP75_DROME Major heat shock 70 kDa protein Bc OS=Drosophila melanogaster GN=Hsp70Bc PE=2 SV=2	70.13346812	641	80
+sp|Q9BIS2|HSP73_DROME Major heat shock 70 kDa protein Bb OS=Drosophila melanogaster GN=Hsp70Bb PE=2 SV=2	70.13346812	641	80
+sp|Q9D312|K1C20_MOUSE Keratin, type I cytoskeletal 20 OS=Mus musculus GN=Krt20 PE=1 SV=1	48.98605588	431	57
+sp|Q9D646|KRT34_MOUSE Keratin, type I cuticular Ha4 OS=Mus musculus GN=Krt34 PE=2 SV=1	44.51330309	392	41
+tr|Q9N6D8|Q9N6D8_DROME GH11591p OS=Drosophila melanogaster GN=p53 PE=2 SV=1	43.60778536	385	51
+sp|Q9NFU0|FMR1_DROME Synaptic functional regulator FMR1 OS=Drosophila melanogaster GN=Fmr1 PE=1 SV=1	76.01168191	684	92
+sp|Q9NFU0-4|FMR1_DROME Isoform B of Synaptic functional regulator FMR1 OS=Drosophila melanogaster GN=Fmr1	59.65271596	529	75
+sp|Q9NFU0-2|FMR1_DROME Isoform C of Synaptic functional regulator FMR1 OS=Drosophila melanogaster GN=Fmr1	75.75454436	681	92
+sp|Q9NFU0-3|FMR1_DROME Isoform E of Synaptic functional regulator FMR1 OS=Drosophila melanogaster GN=Fmr1	71.67457706	643	90
+sp|Q9NJH0|EF1G_DROME Elongation factor 1-gamma OS=Drosophila melanogaster GN=Ef1gamma PE=2 SV=2	48.91879893	431	55
+sp|Q9NSB2|KRT84_HUMAN Keratin, type II cuticular Hb4 OS=Homo sapiens GN=KRT84 PE=2 SV=2	64.78345112	600	69
+sp|Q9NSB4|KRT82_HUMAN Keratin, type II cuticular Hb2 OS=Homo sapiens GN=KRT82 PE=3 SV=3	56.59831094	513	62
+sp|Q9QWL7|K1C17_MOUSE Keratin, type I cytoskeletal 17 OS=Mus musculus GN=Krt17 PE=1 SV=3	48.11405528	433	51
+sp|Q9U3Z7|NH2L1_DROME NHP2-like protein 1 homolog OS=Drosophila melanogaster GN=hoip PE=2 SV=1	13.8563874	127	13
+sp|Q9U9Q4|EIF3H_DROME Eukaryotic translation initiation factor 3 subunit H OS=Drosophila melanogaster GN=eIF-3p40 PE=1 SV=2	38.36517708	338	36
+sp|Q15323|K1H1_HUMAN Keratin, type I cuticular Ha1 OS=Homo sapiens GN=KRT31 PE=1 SV=3	47.1890397	416	39
+tr|Q9V397|Q9V397_DROME BcDNA.GH12558 OS=Drosophila melanogaster GN=Mtpalpha PE=1 SV=1	84.00371176	783	96
+sp|Q9V3C0|DDX41_DROME ATP-dependent RNA helicase abstrakt OS=Drosophila melanogaster GN=abs PE=1 SV=1	69.42579037	619	81
+tr|Q9V3E7|Q9V3E7_DROME LD24793p OS=Drosophila melanogaster GN=Ref1 PE=1 SV=1	27.81666326	266	43
+sp|Q9V3G1|RL8_DROME 60S ribosomal protein L8 OS=Drosophila melanogaster GN=RpL8 PE=1 SV=1	27.85717589	256	54
+sp|Q9V3P0|PRDX1_DROME Peroxiredoxin 1 OS=Drosophila melanogaster GN=Jafrac1 PE=1 SV=1	21.70601022	194	21
+tr|Q9V3Q4|Q9V3Q4_DROME GH25379p OS=Drosophila melanogaster GN=Jafrac2 PE=1 SV=1	26.70885466	242	23
+tr|Q9V3W7|Q9V3W7_DROME LD40489p OS=Drosophila melanogaster GN=SF2 PE=1 SV=1	28.31480857	255	50
+tr|Q9V3Y5|Q9V3Y5_DROME BcDNA.LD23634 OS=Drosophila melanogaster GN=BcDNA.LD23634 PE=1 SV=1	112.61123967	998	176
+tr|Q9V426|Q9V426_DROME LD07162p OS=Drosophila melanogaster GN=vig PE=1 SV=1	52.6595568	490	71
+tr|Q9V438|Q9V438_DROME Calcium-binding protein 1, isoform A OS=Drosophila melanogaster GN=CaBP1 PE=1 SV=1	46.70470684	433	50
+tr|Q9V4D4|Q9V4D4_DROME Bip2 OS=Drosophila melanogaster GN=bip2 PE=1 SV=1	154.38649976	1406	175
+sp|Q9V4P1|ANLN_DROME Actin-binding protein anillin OS=Drosophila melanogaster GN=scra PE=1 SV=3	135.93090152	1239	137
+sp|Q9V4P1-2|ANLN_DROME Isoform A of Actin-binding protein anillin OS=Drosophila melanogaster GN=scra	132.80732779	1212	133
+sp|Q9V597|RL31_DROME 60S ribosomal protein L31 OS=Drosophila melanogaster GN=RpL31 PE=1 SV=1	14.50572738	124	29
+sp|Q9V9A7|MCCB_DROME Probable methylcrotonoyl-CoA carboxylase beta chain, mitochondrial OS=Drosophila melanogaster GN=l(2)04524 PE=2 SV=1	62.59088941	578	60
+tr|Q9V9N4|Q9V9N4_DROME Chromatin-linked adaptor for MSL proteins, isoform A OS=Drosophila melanogaster GN=Jupiter PE=1 SV=1	61.13808508	561	52
+tr|Q9V9W2|Q9V9W2_DROME Ribosomal protein L6, isoform A OS=Drosophila melanogaster GN=RpL6 PE=1 SV=1	27.6625528	243	61
+tr|Q9V9W3|Q9V9W3_DROME RE08669p OS=Drosophila melanogaster GN=RpL6 PE=1 SV=1	29.69977386	262	67
+sp|Q9VA91|RS7_DROME 40S ribosomal protein S7 OS=Drosophila melanogaster GN=RpS7 PE=1 SV=1	22.1383136	194	33
+tr|Q9VAD3|Q9VAD3_DROME Uncharacterized protein, isoform A OS=Drosophila melanogaster GN=Vps13B PE=4 SV=3	424.69980866	3731	382
+tr|Q9VAY2|Q9VAY2_DROME Glycoprotein 93 OS=Drosophila melanogaster GN=Gp93 PE=1 SV=1	90.16443732	787	106
+tr|Q9VBH8|Q9VBH8_DROME FI02850p OS=Drosophila melanogaster GN=RpL34a PE=1 SV=2	18.03941287	162	40
+tr|Q9VBN5|Q9VBN5_DROME 60S ribosomal protein L27 OS=Drosophila melanogaster GN=RpL27 PE=1 SV=1	15.87486737	135	36
+tr|Q9VBU7|Q9VBU7_DROME Nucleoporin 358kD, isoform A OS=Drosophila melanogaster GN=Nup358 PE=1 SV=2	296.18290808	2695	267
+tr|Q9VBU9|Q9VBU9_DROME 40S ribosomal protein S27 OS=Drosophila melanogaster GN=RpS27 PE=1 SV=1	9.33983518	84	14
+tr|Q9VBX3|Q9VBX3_DROME Vig2, isoform B OS=Drosophila melanogaster GN=vig2 PE=1 SV=2	48.65809392	443	72
+tr|Q9VBX4|Q9VBX4_DROME LD36051p OS=Drosophila melanogaster GN=CG31510-RA PE=1 SV=2	129.1964858	1150	143
+tr|Q9VC94|Q9VC94_DROME CG5728 OS=Drosophila melanogaster GN=CG5728 PE=1 SV=2	159.68826969	1430	199
+sp|Q9VCG4|NDC1_DROME Nucleoporin Ndc1 OS=Drosophila melanogaster GN=Ndc1 PE=1 SV=1	65.32616556	578	51
+tr|Q9VCH5|Q9VCH5_DROME Nucleoporin 98-96kD, isoform A OS=Drosophila melanogaster GN=Nup98-96 PE=1 SV=3	209.98927528	1960	147
+tr|Q9VDI8|Q9VDI8_DROME Syncrip, isoform D OS=Drosophila melanogaster GN=Syp PE=1 SV=2	76.84767071	707	90
+sp|Q9VDS5|RG92B_DROME Rho GTPase-activating protein 92B OS=Drosophila melanogaster GN=RhoGAP92B PE=1 SV=1	83.01579706	740	96
+tr|Q9VE98|Q9VE98_DROME CG8064 OS=Drosophila melanogaster GN=CG8064 PE=1 SV=1	103.06745253	922	113
+sp|Q9VEB3|RPF2_DROME Ribosome production factor 2 homolog OS=Drosophila melanogaster GN=Non3 PE=2 SV=3	36.45688761	320	65
+sp|Q9VEJ2|NOP14_DROME Nucleolar protein 14 homolog OS=Drosophila melanogaster GN=l(3)07882 PE=2 SV=2	97.47337334	852	138
+sp|Q9VEN1|FLNA_DROME Filamin-A OS=Drosophila melanogaster GN=cher PE=1 SV=2	239.0137965	2210	234
+sp|Q9VEN1-2|FLNA_DROME Isoform 2 of Filamin-A OS=Drosophila melanogaster GN=cher	90.35328913	838	91
+tr|Q9VEN9|Q9VEN9_DROME Protein associated with topo II related-1, isoform A OS=Drosophila melanogaster GN=Patr-1 PE=1 SV=1	108.13323518	968	92
+tr|Q9VEX6|Q9VEX6_DROME AAA family protein Bor OS=Drosophila melanogaster GN=bor PE=1 SV=2	68.30029882	604	99
+tr|Q9VEZ3|Q9VEZ3_DROME LP04448p OS=Drosophila melanogaster GN=msps PE=1 SV=3	225.82034939	2042	254
+tr|Q9VFT4|Q9VFT4_DROME AT27578p OS=Drosophila melanogaster GN=rin PE=1 SV=1	74.87994535	690	47
+tr|Q9VFV9|Q9VFV9_DROME DnaJ-like-2, isoform A OS=Drosophila melanogaster GN=Droj2 PE=1 SV=1	45.18360139	403	60
+sp|Q9VG58|HSP74_DROME Major heat shock 70 kDa protein Bbb OS=Drosophila melanogaster GN=Hsp70Bbb PE=3 SV=2	70.1914736	641	80
+tr|Q9VGA4|Q9VGA4_DROME MBD-R2 OS=Drosophila melanogaster GN=MBD-R2 PE=1 SV=2	130.04991771	1169	144
+sp|Q9VGN9|RLP24_DROME Probable ribosome biogenesis protein RLP24 OS=Drosophila melanogaster GN=RpL24-like PE=1 SV=1	22.40359395	191	44
+sp|Q9VH07|RUVB1_DROME RuvB-like helicase 1 OS=Drosophila melanogaster GN=pont PE=1 SV=1	50.19261495	456	59
+tr|Q9VH60|Q9VH60_DROME F-box protein 11, isoform A OS=Drosophila melanogaster GN=FBXO11 PE=4 SV=1	124.52027089	1182	81
+sp|Q9VH69|RS29_DROME 40S ribosomal protein S29 OS=Drosophila melanogaster GN=RpS29 PE=1 SV=1	6.56819719	56	12
+tr|Q9VHC7|Q9VHC7_DROME FI21236p1 OS=Drosophila melanogaster GN=rump PE=1 SV=1	66.67271885	632	68
+tr|Q9VHE5|Q9VHE5_DROME RH48056p OS=Drosophila melanogaster GN=RpL34b PE=1 SV=1	18.40150632	168	40
+tr|Q9VHN7|Q9VHN7_DROME CG8036, isoform B OS=Drosophila melanogaster GN=CG8036 PE=1 SV=3	67.97099824	626	63
+sp|Q9VHP0|DDX3_DROME ATP-dependent RNA helicase bel OS=Drosophila melanogaster GN=bel PE=1 SV=1	85.01126625	798	86
+tr|Q9VHR5|Q9VHR5_DROME CG9684 OS=Drosophila melanogaster GN=CG9684 PE=1 SV=2	71.84361903	642	76
+sp|Q9VHR8|DPP3_DROME Dipeptidyl peptidase 3 OS=Drosophila melanogaster GN=DppIII PE=2 SV=2	89.12032983	786	95
+sp|Q9VHR8-2|DPP3_DROME Isoform 2 of Dipeptidyl peptidase 3 OS=Drosophila melanogaster GN=DppIII	81.86764772	723	86
+sp|Q9VHS8|IF4A3_DROME Eukaryotic initiation factor 4A-III OS=Drosophila melanogaster GN=eIF4AIII PE=1 SV=1	45.59757228	399	51
+sp|Q9VHV5|ARL8_DROME ADP-ribosylation factor-like protein 8 OS=Drosophila melanogaster GN=Gie PE=1 SV=1	21.2219396	186	22
+sp|Q9VHY5|TAF7_DROME Transcription initiation factor TFIID subunit 7 OS=Drosophila melanogaster GN=Taf7 PE=1 SV=1	55.01219204	479	66
+sp|Q9VI10|SMD2_DROME Probable small nuclear ribonucleoprotein Sm D2 OS=Drosophila melanogaster GN=SmD2 PE=1 SV=1	13.47728066	119	21
+tr|Q9VIF6|Q9VIF6_DROME CG9253 OS=Drosophila melanogaster GN=CG9253-RA PE=1 SV=1	56.43307082	507	70
+sp|Q9VIU7|DPM1_DROME Probable dolichol-phosphate mannosyltransferase OS=Drosophila melanogaster GN=CG10166 PE=3 SV=1	26.9671716	241	28
+tr|Q9VJ12|Q9VJ12_DROME Acinus, isoform A OS=Drosophila melanogaster GN=Acn PE=1 SV=1	83.65198233	739	142
+tr|Q9VJ19|Q9VJ19_DROME RE25263p OS=Drosophila melanogaster GN=RpL30 PE=1 SV=1	12.20850043	111	19
+tr|Q9VJ43|Q9VJ43_DROME LD10783p OS=Drosophila melanogaster GN=ScpX PE=1 SV=1	58.95176074	544	59
+tr|Q9VJ44|Q9VJ44_DROME SD06839p OS=Drosophila melanogaster GN=CG17597 PE=1 SV=2	43.85793678	407	42
+tr|Q9VJ74|Q9VJ74_DROME RH55640p OS=Drosophila melanogaster GN=CG10333 PE=1 SV=2	94.47027304	822	163
+tr|Q9VJJ8|Q9VJJ8_DROME LD30602p OS=Drosophila melanogaster GN=CG4668 PE=1 SV=2	153.17509494	1413	114
+tr|Q9VJJ9|Q9VJJ9_DROME FI20237p1 OS=Drosophila melanogaster GN=CG42389-RF PE=1 SV=4	189.73737098	1762	112
+sp|Q9VJY6|RL24_DROME 60S ribosomal protein L24 OS=Drosophila melanogaster GN=RpL24 PE=1 SV=1	17.49085915	155	45
+tr|Q9VJZ1|Q9VJZ1_DROME CG9302 OS=Drosophila melanogaster GN=CG9302-RA PE=1 SV=1	57.89151022	510	73
+tr|Q9VK18|Q9VK18_DROME LD36945p OS=Drosophila melanogaster GN=CG16812 PE=1 SV=1	49.82496126	455	73
+tr|Q9VK59|Q9VK59_DROME CG5787, isoform A OS=Drosophila melanogaster GN=CG5787 PE=1 SV=2	100.17936679	950	100
+tr|Q9VK63|Q9VK63_DROME CG5776, isoform A OS=Drosophila melanogaster GN=CG5776 PE=1 SV=1	89.02017721	799	85
+tr|Q9VKD8|Q9VKD8_DROME CG6686, isoform B OS=Drosophila melanogaster GN=CG6686 PE=1 SV=1	111.81691369	964	197
+sp|Q9VKK1|EDC4_DROME Enhancer of mRNA-decapping protein 4 homolog OS=Drosophila melanogaster GN=Ge-1 PE=1 SV=2	149.13876632	1354	129
+tr|Q9V463|Q9V463_DROME Nucleoporin 154kD, isoform A OS=Drosophila melanogaster GN=Nup154 PE=1 SV=1	153.77885148	1365	117
+tr|Q9VL69|Q9VL69_DROME CG5885, isoform A OS=Drosophila melanogaster GN=BEST:CK01296 PE=1 SV=1	21.60432874	190	24
+tr|Q9VL93|Q9VL93_DROME SD27505p OS=Drosophila melanogaster GN=CG13117 PE=1 SV=1	12.03907166	110	11
+tr|Q9VLC5|Q9VLC5_DROME Aldehyde dehydrogenase OS=Drosophila melanogaster GN=Aldh PE=1 SV=1	56.96498724	520	54
+sp|Q9VLK2|Y3096_DROME Ribosomal L1 domain-containing protein CG13096 OS=Drosophila melanogaster GN=CG13096 PE=1 SV=1	74.30086928	681	118
+sp|Q9VLU0|BAF_DROME Barrier-to-autointegration factor OS=Drosophila melanogaster GN=baf PE=1 SV=1	10.09176316	90	11
+tr|Q9VM69|Q9VM69_DROME CG10206-PA OS=Drosophila melanogaster GN=nop5 PE=1 SV=2	57.11703765	511	85
+sp|Q9VM75|HEAT1_DROME HEAT repeat-containing protein 1 homolog OS=Drosophila melanogaster GN=l(2)k09022 PE=2 SV=2	237.05232663	2096	209
+tr|Q9VM94|Q9VM94_DROME Homer, isoform B OS=Drosophila melanogaster GN=homer PE=1 SV=1	42.96348042	397	43
+tr|Q9VMM3|Q9VMM3_DROME CG7239 OS=Drosophila melanogaster GN=CG7239 PE=1 SV=1	51.98775881	459	44
+sp|Q9VMN5|CH60C_DROME 60 kDa heat shock protein homolog 2, mitochondrial OS=Drosophila melanogaster GN=Hsp60C PE=2 SV=2	61.53024344	576	77
+tr|Q9VMS1|Q9VMS1_DROME Cyclope, isoform A OS=Drosophila melanogaster GN=cype PE=1 SV=3	8.27232915	77	12
+tr|Q9VN21|Q9VN21_DROME LD30155p OS=Drosophila melanogaster GN=lost PE=1 SV=1	59.68826407	545	87
+sp|Q9VN25|EIF3A_DROME Eukaryotic translation initiation factor 3 subunit A OS=Drosophila melanogaster GN=eIF3-S10 PE=1 SV=1	133.78010234	1140	226
+sp|Q9VN25-2|EIF3A_DROME Isoform B of Eukaryotic translation initiation factor 3 subunit A OS=Drosophila melanogaster GN=eIF3-S10	125.72804953	1072	214
+tr|Q9VN39|Q9VN39_DROME CG9775, isoform A OS=Drosophila melanogaster GN=CG9775 PE=1 SV=1	46.08300557	421	98
+tr|Q9VNA3|Q9VNA3_DROME GH21273p OS=Drosophila melanogaster GN=CG11999 PE=1 SV=1	23.60058068	216	18
+tr|Q9VNB9|Q9VNB9_DROME RE17737p OS=Drosophila melanogaster GN=RpL35A PE=1 SV=1	17.62665619	157	39
+sp|Q9VNE9|RL13A_DROME 60S ribosomal protein L13a OS=Drosophila melanogaster GN=RpL13A PE=1 SV=1	23.61416204	205	48
+sp|Q9VNV3|DDX1_DROME ATP-dependent RNA helicase Ddx1 OS=Drosophila melanogaster GN=Ddx1 PE=2 SV=1	80.79973204	727	84
+tr|Q9VNX4|Q9VNX4_DROME Delta-1-Pyrroline-5-carboxylate dehydrogenase 1, isoform A OS=Drosophila melanogaster GN=P5CDh1 PE=1 SV=1	63.60825978	574	67
+tr|Q9VP57|Q9VP57_DROME LD15904p OS=Drosophila melanogaster GN=pzg PE=1 SV=1	104.99723663	996	76
+tr|Q9VPM7|Q9VPM7_DROME IP13529p OS=Drosophila melanogaster GN=CG17078-RA PE=1 SV=2	67.45844391	610	72
+tr|Q9VPX6|Q9VPX6_DROME Adenylyl cyclase-associated protein OS=Drosophila melanogaster GN=capt PE=1 SV=2	84.41560882	783	73
+tr|Q9VPX7|Q9VPX7_DROME Adenylyl cyclase-associated protein OS=Drosophila melanogaster GN=capt PE=1 SV=2	45.55822101	424	41
+tr|Q9VQL7|Q9VQL7_DROME Fatty acid synthase 1, isoform A OS=Drosophila melanogaster GN=FASN1 PE=1 SV=1	266.25920878	2438	244
+tr|Q9VRI0|Q9VRI0_DROME Helicase OS=Drosophila melanogaster GN=Hlc PE=1 SV=2	62.8261295	560	80
+tr|Q9VRP2|Q9VRP2_DROME Uncharacterized protein, isoform A OS=Drosophila melanogaster GN=CG10576 PE=1 SV=1	42.72816376	391	51
+sp|Q9VS34|RL18_DROME 60S ribosomal protein L18 OS=Drosophila melanogaster GN=RpL18 PE=1 SV=1	21.63307083	188	42
+tr|Q9VS57|Q9VS57_DROME RE14391p OS=Drosophila melanogaster GN=Sec63 PE=1 SV=1	85.78088536	753	94
+sp|Q9VSH4|CPSF6_DROME Cleavage and polyadenylation specificity factor subunit CG7185 OS=Drosophila melanogaster GN=CG7185 PE=1 SV=2	71.03264475	652	80
+tr|Q9VT38|Q9VT38_DROME GH03795p OS=Drosophila melanogaster GN=CG18178 PE=1 SV=1	42.47135654	374	76
+tr|Q9VT61|Q9VT61_DROME CG8108, isoform A OS=Drosophila melanogaster GN=CG8108 PE=1 SV=1	102.86853029	919	167
+sp|Q9VTP4|R10AB_DROME 60S ribosomal protein L10a-2 OS=Drosophila melanogaster GN=RpL10Ab PE=1 SV=2	24.24013606	217	39
+tr|Q9VTY8|Q9VTY8_DROME Protein kinase C OS=Drosophila melanogaster GN=sti PE=1 SV=2	211.17501051	1854	258
+tr|Q9VUH6|Q9VUH6_DROME Myopic OS=Drosophila melanogaster GN=mop PE=1 SV=2	200.18547002	1833	140
+sp|Q9VUQ5|AGO2_DROME Protein argonaute-2 OS=Drosophila melanogaster GN=AGO2 PE=1 SV=3	136.74713926	1214	130
+sp|Q9VUQ5-2|AGO2_DROME Isoform C of Protein argonaute-2 OS=Drosophila melanogaster GN=AGO2	137.11326083	1217	127
+tr|Q9VUY6|Q9VUY6_DROME GH12756p OS=Drosophila melanogaster GN=Zn72D PE=1 SV=2	68.3963505	635	72
+tr|Q9VV52|Q9VV52_DROME LD37257p OS=Drosophila melanogaster GN=RAF2 PE=1 SV=3	125.39533515	1117	129
+tr|Q9VV75|Q9VV75_DROME AT02348p OS=Drosophila melanogaster GN=UQCR-C2 PE=1 SV=1	45.36986605	440	45
+tr|Q9VVA6|Q9VVA6_DROME Nuclear migration protein NudC OS=Drosophila melanogaster GN=nudC PE=1 SV=2	37.75036796	332	56
+sp|Q9VVI9|CHMP5_DROME Charged multivesicular body protein 5 OS=Drosophila melanogaster GN=Vps60 PE=1 SV=2	25.11740812	226	31
+tr|Q9VVL7|Q9VVL7_DROME Dihydrolipoyl dehydrogenase OS=Drosophila melanogaster GN=CG7430 PE=1 SV=1	53.03350769	504	49
+tr|Q9VVU2|Q9VVU2_DROME RE17611p OS=Drosophila melanogaster GN=RpL26 PE=1 SV=1	17.25248714	149	38
+tr|Q9VW28|Q9VW28_DROME CG8765, isoform A OS=Drosophila melanogaster GN=CG8765 PE=1 SV=1	77.9077183	690	57
+tr|Q9VWA0|Q9VWA0_DROME Uncharacterized protein, isoform C OS=Drosophila melanogaster GN=CG17233 PE=1 SV=3	162.14848742	1465	109
+tr|Q9VWC7|Q9VWC7_DROME FI02109p OS=Drosophila melanogaster GN=CG12702-RA PE=1 SV=1	97.09323477	870	98
+sp|Q9VWG3|RS10B_DROME 40S ribosomal protein S10b OS=Drosophila melanogaster GN=RpS10b PE=1 SV=2	17.84924777	160	24
+sp|Q9VWY6|TAF8_DROME Transcription initiation factor TFIID subunit 8 OS=Drosophila melanogaster GN=Taf8 PE=1 SV=1	36.60836174	328	31
+tr|Q9VX35|Q9VX35_DROME CG8289, isoform A OS=Drosophila melanogaster GN=CG8289 PE=1 SV=1	37.34208121	336	77
+tr|Q9VXF8|Q9VXF8_DROME RNA-binding protein 2, isoform A OS=Drosophila melanogaster GN=Rbp2 PE=1 SV=1	35.02208787	325	45
+tr|Q9VXN3|Q9VXN3_DROME CG8578, isoform A OS=Drosophila melanogaster GN=CG8578 PE=1 SV=2	45.35645813	396	74
+sp|Q9VXN4|SYRC_DROME Probable arginine--tRNA ligase, cytoplasmic OS=Drosophila melanogaster GN=Aats-arg PE=2 SV=1	75.51110294	665	91
+tr|Q9VXQ5|Q9VXQ5_DROME GH13725p OS=Drosophila melanogaster GN=Tcp-1zeta PE=1 SV=1	58.19155447	533	65
+sp|Q9VXX8|RL371_DROME Probable 60S ribosomal protein L37-A OS=Drosophila melanogaster GN=RpL37a PE=1 SV=1	10.61861473	93	25
+sp|Q9VYA7|RRP12_DROME RRP12-like protein OS=Drosophila melanogaster GN=CG2691 PE=1 SV=2	153.44170631	1384	178
+sp|Q9VYR0|LS12A_DROME Protein LSM12 homolog A OS=Drosophila melanogaster GN=CG15735 PE=2 SV=2	23.71268622	217	21
+tr|Q9VZ00|Q9VZ00_DROME CG1737, isoform A OS=Drosophila melanogaster GN=CG1737-RA PE=1 SV=1	102.03160426	943	137
+sp|Q9VZ23|RAN_DROME GTP-binding nuclear protein Ran OS=Drosophila melanogaster GN=Ran PE=1 SV=1	24.67463819	216	30
+tr|Q9VZ34|Q9VZ34_DROME CG2076, isoform A OS=Drosophila melanogaster GN=CG2076 PE=1 SV=1	35.77587581	341	29
+tr|Q9VZE4|Q9VZE4_DROME CG1316 OS=Drosophila melanogaster GN=CG1316 PE=1 SV=2	52.40172646	470	60
+tr|Q9VZI1|Q9VZI1_DROME Transgelin OS=Drosophila melanogaster GN=Chd64 PE=1 SV=2	20.61334042	188	23
+tr|Q9VZQ3|Q9VZQ3_DROME Karst, isoform A OS=Drosophila melanogaster GN=kst PE=1 SV=1	471.33312139	4097	596
+tr|D1Z3A1|D1Z3A1_DROME MIP15344p OS=Drosophila melanogaster GN=RpL28 PE=1 SV=1	16.00109702	144	33
+sp|Q9VZS5|RL28_DROME 60S ribosomal protein L28 OS=Drosophila melanogaster GN=RpL28 PE=1 SV=1	16.00109702	144	33
+tr|Q9VZX9|Q9VZX9_DROME Adenosylhomocysteinase OS=Drosophila melanogaster GN=CG9977-RA PE=1 SV=1	56.92368926	521	57
+tr|Q9W002|Q9W002_DROME Misshapen, isoform A OS=Drosophila melanogaster GN=msn PE=1 SV=3	162.26205847	1504	155
+tr|Q9W047|Q9W047_DROME CG5704, isoform A OS=Drosophila melanogaster GN=BEST:LD30049 PE=1 SV=1	38.37199361	335	36
+tr|Q9W0A8|Q9W0A8_DROME FI01658p OS=Drosophila melanogaster GN=RpL23A PE=1 SV=1	29.42711309	277	63
+tr|Q9W0B8|Q9W0B8_DROME Coatomer subunit alpha OS=Drosophila melanogaster GN=alphaCOP PE=1 SV=1	139.22295079	1234	134
+tr|Q9W0M7|Q9W0M7_DROME FI04459p OS=Drosophila melanogaster GN=CG13900-RA PE=1 SV=2	136.51112693	1227	119
+tr|Q9W0Q1|Q9W0Q1_DROME Homeodomain interacting protein kinase, isoform A OS=Drosophila melanogaster GN=Hipk PE=1 SV=2	145.32533121	1340	104
+tr|Q9W0R0|Q9W0R0_DROME Cell division cycle 5 ortholog, isoform A OS=Drosophila melanogaster GN=Cdc5 PE=1 SV=2	93.00987414	814	127
+tr|Q9W0S7|Q9W0S7_DROME LD20211p OS=Drosophila melanogaster GN=Tudor-SN PE=1 SV=1	103.01850577	926	123
+sp|Q9W0T1|NU301_DROME Nucleosome-remodeling factor subunit NURF301 OS=Drosophila melanogaster GN=E(bx) PE=1 SV=2	300.48184843	2669	328
+sp|Q9W0T1-2|NU301_DROME Isoform B of Nucleosome-remodeling factor subunit NURF301 OS=Drosophila melanogaster GN=E(bx)	298.30568841	2649	327
+sp|Q9W0T1-3|NU301_DROME Isoform C of Nucleosome-remodeling factor subunit NURF301 OS=Drosophila melanogaster GN=E(bx)	241.46717122	2159	256
+sp|Q9W0T1-4|NU301_DROME Isoform D of Nucleosome-remodeling factor subunit NURF301 OS=Drosophila melanogaster GN=E(bx)	239.2910112	2139	255
+tr|Q9W1B9|Q9W1B9_DROME RE28824p OS=Drosophila melanogaster GN=RpL12 PE=1 SV=1	17.64445784	165	25
+tr|Q9W1F7|Q9W1F7_DROME CG2970, isoform A OS=Drosophila melanogaster GN=CG2970 PE=1 SV=2	40.48813348	366	49
+tr|Q9W1M6|Q9W1M6_DROME Apontic, isoform B OS=Drosophila melanogaster GN=apt PE=1 SV=2	55.04045482	489	55
+sp|Q9W1V3|FBRL_DROME rRNA 2'-O-methyltransferase fibrillarin OS=Drosophila melanogaster GN=Fib PE=2 SV=1	34.59774363	344	45
+tr|Q9W229|Q9W229_DROME 40S ribosomal protein S24 OS=Drosophila melanogaster GN=RpS24 PE=1 SV=1	15.02017287	131	33
+sp|Q9W237|RS16_DROME 40S ribosomal protein S16 OS=Drosophila melanogaster GN=RpS16 PE=1 SV=1	16.74623299	148	30
+tr|Q9W255|Q9W255_DROME GH05812p OS=Drosophila melanogaster GN=qkr58E-1 PE=1 SV=1	45.33846417	396	60
+tr|Q9W2E4|Q9W2E4_DROME CG9865, isoform A OS=Drosophila melanogaster GN=CG9865-RA PE=2 SV=1	54.03546461	466	36
+tr|Q9W2U7|Q9W2U7_DROME LP18708p OS=Drosophila melanogaster GN=nocte PE=1 SV=4	235.43076271	2309	161
+sp|Q9W334|RS28_DROME 40S ribosomal protein S28 OS=Drosophila melanogaster GN=RpS28b PE=1 SV=2	7.45403532	65	12
+tr|Q9W392|Q9W392_DROME CG7033 OS=Drosophila melanogaster GN=CG7033 PE=1 SV=2	58.00930002	535	66
+sp|Q9W3W8|RL17_DROME 60S ribosomal protein L17 OS=Drosophila melanogaster GN=RpL17 PE=1 SV=1	21.56138981	186	44
+sp|Q9W401|CISY_DROME Probable citrate synthase, mitochondrial OS=Drosophila melanogaster GN=kdn PE=2 SV=1	51.52359599	464	52
+sp|Q9W401-2|CISY_DROME Isoform B of Probable citrate synthase, mitochondrial OS=Drosophila melanogaster GN=kdn	58.16173492	522	60
+tr|Q9W418|Q9W418_DROME GH17761p OS=Drosophila melanogaster GN=Ubi-p5E PE=2 SV=3	59.97536317	534	78
+tr|Q9W490|Q9W490_DROME FI04818p OS=Drosophila melanogaster GN=CG33080-RA PE=1 SV=2	104.62026334	925	98
+tr|Q9W492|Q9W492_DROME Uncharacterized protein, isoform B OS=Drosophila melanogaster GN=CG33080 PE=3 SV=2	82.7954756	725	77
+tr|Q9W4C1|Q9W4C1_DROME IP13321p OS=Drosophila melanogaster GN=CG15784 PE=1 SV=1	62.27353233	554	95
+tr|Q9W4M7|Q9W4M7_DROME Twenty-four, isoform B OS=Drosophila melanogaster GN=tyf PE=1 SV=1	199.49243033	1911	169
+tr|Q9W4Q4|Q9W4Q4_DROME BcDNA.GH07910 OS=Drosophila melanogaster GN=Tlk PE=1 SV=2	136.64749659	1266	110
+sp|Q9W4X7|EI3GA_DROME Eukaryotic translation initiation factor 3 subunit G-A OS=Drosophila melanogaster GN=eIF3ga PE=1 SV=1	29.90906112	269	41
+sp|Q9W5R8|RL5_DROME 60S ribosomal protein L5 OS=Drosophila melanogaster GN=RpL5 PE=1 SV=2	33.99777312	299	57
+tr|Q9XZ03|Q9XZ03_DROME Multiprotein Bridging Factor 1 OS=Drosophila melanogaster GN=mbf1 PE=1 SV=1	16.02866261	145	29
+tr|Q9XZ06|Q9XZ06_DROME Nucleoporin 93kD-1 OS=Drosophila melanogaster GN=Nup93-1 PE=1 SV=1	93.77474668	823	90
+tr|Q9XZ21|Q9XZ21_DROME Something that sticks like glue, isoform A OS=Drosophila melanogaster GN=snama PE=1 SV=1	138.93581615	1231	232
+tr|Q9XZ53|Q9XZ53_DROME Oligosaccharyl transferase 3 OS=Drosophila melanogaster GN=OstStt3 PE=1 SV=1	87.5522785	774	71
+tr|Q9XZ57|Q9XZ57_DROME Eb1, isoform E OS=Drosophila melanogaster GN=Eb1 PE=1 SV=1	32.449935	290	32
+tr|Q9Y134|Q9Y134_DROME L.2.35Df OS=Drosophila melanogaster GN=l(2)35Df PE=1 SV=1	118.83209864	1055	133
+sp|Q9Y140|DHRS7_DROME Dehydrogenase/reductase SDR family protein 7-like OS=Drosophila melanogaster GN=CG7601 PE=2 SV=1	35.70291729	326	39

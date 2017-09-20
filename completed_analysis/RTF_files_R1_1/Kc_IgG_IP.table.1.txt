@@ -1,0 +1,43 @@
+1	P02769	(Bos taurus) Bovine serum albumin precursor	1566.23	40	8 11 12 14 18 21 30 32 33 37 41 44 45 47 50 51 54 55 58 60 67 69 70 80 81 83 86 101 103 107 108 117 121 122 123 124 125 136 138 140	NA	NA
+2	P04264	Tax_Id=9606 Gene_Symbol=KRT1 Keratin, type II cytoskeletal 1	871.65	16	2 4 10 36 46 59 66 84 85 90 116 119 126 127 130 141	NA	NA
+3	P13645	Tax_Id=9606 Gene_Symbol=KRT10 Keratin, type I cytoskeletal 10	678.94	14	13 17 22 42 48 61 79 87 89 104 109 110 129 133	NA	NA
+4	P35527	Tax_Id=9606 Gene_Symbol=KRT9 Keratin, type I cytoskeletal 9	435.40	11	1 28 29 52 64 71 74 77 94 97 128	NA	NA
+5	P35908	Tax_Id=9606 Gene_Symbol=KRT2 Keratin, type II cytoskeletal 2 epidermal	254.81	7	5 34 53 88 111 132 134	NA	NA
+6	P02768-1	Tax_Id=9606 Gene_Symbol=ALB Isoform 1 of Serum albumin precursor	153.09	3	24 25 131	NA	NA
+7	P15497	(Bos taurus) Apolipoprotein A-I precursor	145.38	4	23 39 56 73	NA	NA
+8	P21187	Polyadenylate-binding protein OS=Drosophila melanogaster GN=pAbp PE=1 SV=3	131.94	3	3 9 98	NA	NA
+9	Q1RMK2	(Bos taurus) IGHM protein	118.26	2	100 135	NA	NA
+10	P00761	Trypsin - Sus scrofa (Pig).	113.05	2	65 91	NA	NA
+11	Q6NT21	Keratin, hair, basic, 3 - Homo sapiens (Human).	102.65	4	27 43 82 113	NA	NA
+11	Q14533	Keratin, type II cuticular Hb1 (Hair keratin, type II Hb1) (ghHKb1) (ghHb1) (MLN 137) - Homo sapiens (Human).	102.65	4	27 43 82 113	NA	NA
+11	P78385	Keratin, type II cuticular Hb3 (Hair keratin, type II Hb3) - Homo sapiens (Human).	102.65	4	27 43 82 113	NA	NA
+11	O43790	Keratin, type II cuticular Hb6 (Hair keratin, type II Hb6) (ghHb6) - Homo sapiens (Human).	102.65	4	27 43 82 113	NA	NA
+12	P08736	Elongation factor 1-alpha 1 OS=Drosophila melanogaster GN=Ef1alpha48D PE=1 SV=2	95.00	2	15 96	NA	NA
+12	P05303	Elongation factor 1-alpha 2 OS=Drosophila melanogaster GN=Ef1alpha100E PE=2 SV=2	95.00	2	15 96	NA	NA
+12	A4V3Q6	Elongation factor 1-alpha OS=Drosophila melanogaster GN=Ef1alpha100E PE=3 SV=1	95.00	2	15 96	NA	NA
+13	P08779	Tax_Id=9606 Gene_Symbol=KRT16 Keratin, type I cytoskeletal 16	89.95	4	19 38 105 118	NA	NA
+14	P13647	Tax_Id=9606 Gene_Symbol=KRT5 Keratin, type II cytoskeletal 5	65.76	2	72 106	NA	NA
+15	P49847	Transcription initiation factor TFIID subunit 6 OS=Drosophila melanogaster GN=Taf6 PE=1 SV=2	63.42	3	26 62 115	NA	NA
+16	Q14532	Keratin, type I cuticular HA2 (Hair keratin, type I HA2)	49.56	2	16 57	NA	NA
+17	Q922U2	Tax_Id=10090 Gene_Symbol=Krt5 Keratin, type II cytoskeletal 5	49.05	2	31 93	NA	NA
+17	Q8BGZ7	Tax_Id=10090 Gene_Symbol=Krt75 10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732475I03 product:CYTOKERATIN homolog	49.05	2	31 93	NA	NA
+17	Q5XQN5	(Bos taurus) Keratin, type II cytoskeletal 5	49.05	2	31 93	NA	NA
+17	P50446	Tax_Id=10090 Gene_Symbol=Krt6a Keratin, type II cytoskeletal 6A	49.05	2	31 93	NA	NA
+18	P47825-2	Isoform C of Transcription initiation factor TFIID subunit 4 OS=Drosophila melanogaster GN=Taf4	38.78	1	68	NA	NA
+18	P47825	Transcription initiation factor TFIID subunit 4 OS=Drosophila melanogaster GN=Taf4 PE=1 SV=1	38.78	1	68	NA	NA
+18	E1JI11	TBP-associated factor 4, isoform F OS=Drosophila melanogaster GN=Taf4 PE=4 SV=1	38.78	1	68	NA	NA
+18	B7Z060	TBP-associated factor 4, isoform E OS=Drosophila melanogaster GN=Taf4 PE=4 SV=1	38.78	1	68	NA	NA
+18	A4V201	TBP-associated factor 4, isoform D OS=Drosophila melanogaster GN=Taf4 PE=4 SV=1	38.78	1	68	NA	NA
+19	Q26365-2	Isoform A of ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB	38.62	1	120	NA	NA
+19	Q26365	ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB PE=2 SV=4	38.62	1	120	NA	NA
+20	Q3SZ57	(Bos taurus) Alpha-fetoprotein precursor	35.10	1	6	NA	NA
+21	Q24325	Transcription initiation factor TFIID subunit 2 OS=Drosophila melanogaster GN=Taf2 PE=1 SV=2	33.19	2	40 76	NA	NA
+22	Q9V3C0	ATP-dependent RNA helicase abstrakt OS=Drosophila melanogaster GN=abs PE=1 SV=1	32.71	1	139	NA	NA
+23	Q9VNE9	60S ribosomal protein L13a OS=Drosophila melanogaster GN=RpL13A PE=1 SV=1	31.51	1	49	NA	NA
+24	Q9VAD3	CG15523, isoform A OS=Drosophila melanogaster GN=CG15523 PE=4 SV=3	28.18	2	7 102	NA	NA
+25	Q9D312	Tax_Id=10090 Gene_Symbol=Krt20 Keratin, type I cytoskeletal 20	27.23	1	114	NA	NA
+26	Q7KM15	Beta NAC homolog OS=Drosophila melanogaster GN=bic PE=2 SV=1	26.95	1	142	NA	NA
+27	Q9VK63	CG5776 OS=Drosophila melanogaster GN=CG5776 PE=2 SV=1	24.21	1	20	NA	NA
+28	P02662	Alpha-S1-casein - Bos taurus (Bovine).	23.30	1	137	NA	NA
+29	Q9V3P0	Peroxiredoxin 1 OS=Drosophila melanogaster GN=Jafrac1 PE=1 SV=1	22.73	1	75	NA	NA
+30	P09180	60S ribosomal protein L4 OS=Drosophila melanogaster GN=RpL4 PE=2 SV=2	22.55	1	63	NA	NA

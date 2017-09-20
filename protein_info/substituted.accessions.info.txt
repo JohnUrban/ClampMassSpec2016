@@ -1,0 +1,25 @@
+sp|Q6NT21|KRT83_HUMAN Keratin, type II cuticular Hb3 OS=Homo sapiens GN=KRT83 PE=1 SV=2	54.14249794	493	57
+sp|A2A5Y0|K1H1_MOUSE Keratin, type I cuticular Ha1 OS=Mus musculus GN=Krt31 PE=1 SV=2	47.06869141	416	41
+sp|Q3SX28|TPM2_BOVIN Tropomyosin beta chain OS=Bos taurus GN=TPM2 PE=2 SV=1	32.79854015	284	54
+sp|Q3SX28-2|TPM2_BOVIN Isoform 2 of Tropomyosin beta chain OS=Bos taurus GN=TPM2	32.97355656	284	54
+tr|E1JJD4|Q9W4M7_DROME Twenty-four, isoform B OS=Drosophila melanogaster GN=tyf PE=1 SV=1	199.49243033	1911	169
+tr|E1JJD7|E1JJD6_DROME Twenty-four, isoform F OS=Drosophila melanogaster GN=tyf PE=1 SV=2	173.59590779	1667	140
+sp|Q7RTT2|K2C78_HUMAN Keratin, type II cytoskeletal 78 OS=Homo sapiens GN=KRT78 PE=2 SV=2	56.8124809	520	61
+sp|Q7RTT2-2|K2C78_HUMAN Isoform 2 of Keratin, type II cytoskeletal 78 OS=Homo sapiens GN=KRT78	44.97149303	410	47
+sp|H9XVL9|RS3A_DROME 40S ribosomal protein S3a OS=Drosophila melanogaster GN=RpS3A PE=1 SV=4	30.30306821	268	49
+sp|H9XVL9-2|RS3A_DROME Isoform B of 40S ribosomal protein S3a OS=Drosophila melanogaster GN=RpS3A	24.78809703	218	36
+tr|A1ZAT7|Q7KNS5_DROME Quaking related 54B, isoform A OS=Drosophila melanogaster GN=qkr54B PE=1 SV=1	46.44966627	428	51
+sp|Q9UE12|K1H1_HUMAN Keratin, type I cuticular Ha1 OS=Homo sapiens GN=KRT31 PE=1 SV=3	47.1890397	416	39
+sp|Q6ISB0|KRT84_HUMAN Keratin, type II cuticular Hb4 OS=Homo sapiens GN=KRT84 PE=2 SV=2	64.78345112	600	69
+sp|Q0IIK2|TRFE_BOVIN Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1	77.68472754	704	83
+tr|Q7PL77|Q7PL76_DROME LD33620p OS=Drosophila melanogaster GN=lt PE=1 SV=2	96.84493253	841	94
+tr|Q9VKL5|Q9V463_DROME Nucleoporin 154kD, isoform A OS=Drosophila melanogaster GN=Nup154 PE=1 SV=1	153.77885148	1365	117
+sp|E1JID7|SHEP_DROME Protein alan shepard OS=Drosophila melanogaster GN=shep PE=1 SV=2	62.11728854	590	37
+sp|E1JID7-1|SHEP_DROME Isoform A of Protein alan shepard OS=Drosophila melanogaster GN=shep	60.63259094	578	37
+sp|E1JID7-2|SHEP_DROME Isoform B of Protein alan shepard OS=Drosophila melanogaster GN=shep	52.96888055	499	31
+sp|E1JID7-4|SHEP_DROME Isoform E of Protein alan shepard OS=Drosophila melanogaster GN=shep	41.22130333	379	29
+sp|E1JID7-6|SHEP_DROME Isoform I of Protein alan shepard OS=Drosophila melanogaster GN=shep	40.96518617	377	29
+sp|E1JID7-7|SHEP_DROME Isoform H of Protein alan shepard OS=Drosophila melanogaster GN=shep	40.30189976	371	29
+sp|Q8MSV2-3|SHEP_DROME Isoform B of Protein alan shepard OS=Drosophila melanogaster GN=shep	52.96888055	499	31
+tr|Q9VZS4|D1Z3A1_DROME MIP15344p OS=Drosophila melanogaster GN=RpL28 PE=1 SV=1	16.00109702	144	33
+sp|O16797-4|RL3_DROME Isoform D of 60S ribosomal protein L3 OS=Drosophila melanogaster GN=RpL3	18.10640119	161	23

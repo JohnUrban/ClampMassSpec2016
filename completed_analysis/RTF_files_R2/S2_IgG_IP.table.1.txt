@@ -1,0 +1,42 @@
+1	P13645	Tax_Id=9606 Gene_Symbol=KRT10 Keratin, type I cytoskeletal 10	1515.42	24	3 9 16 21 23 26 42 50 54 67 72 78 94 104 107 109 110 124 127 130 133 141 155 172	NA	NA
+2	P04264	Tax_Id=9606 Gene_Symbol=KRT1 Keratin, type II cytoskeletal 1	1263.26	20	2 6 7 18 38 46 49 66 81 95 98 101 102 112 131 144 157 158 160 170	NA	NA
+3	P02769	(Bos taurus) Bovine serum albumin precursor	1006.80	22	14 36 47 51 57 58 60 64 68 71 73 74 97 100 122 125 128 132 147 151 152 171	NA	NA
+4	P35908	Tax_Id=9606 Gene_Symbol=KRT2 Keratin, type II cytoskeletal 2 epidermal	893.20	22	8 15 28 39 43 44 52 56 87 89 92 96 103 108 111 118 136 138 140 142 159 161	NA	NA
+5	P35527	Tax_Id=9606 Gene_Symbol=KRT9 Keratin, type I cytoskeletal 9	783.13	16	1 31 32 34 55 59 70 75 79 82 84 85 88 116 120 126	NA	NA
+6	P08779	Tax_Id=9606 Gene_Symbol=KRT16 Keratin, type I cytoskeletal 16	455.92	9	25 40 61 90 105 149 150 165 166	NA	NA
+7	P04259	Tax_Id=9606 Gene_Symbol=KRT6B Keratin, type II cytoskeletal 6B	327.88	7	11 12 37 76 129 153 169	NA	NA
+8	Q1RMK2	(Bos taurus) IGHM protein	230.86	4	19 24 121 167	NA	NA
+9	P00761	Trypsin - Sus scrofa (Pig).	210.88	3	69 86 113	NA	NA
+10	P02533	Tax_Id=9606 Gene_Symbol=KRT14 Keratin, type I cytoskeletal 14	206.72	4	4 10 45 80	NA	NA
+11	P13647	Tax_Id=9606 Gene_Symbol=KRT5 Keratin, type II cytoskeletal 5	184.32	5	5 20 91 106 137	NA	NA
+12	P41094	40S ribosomal protein S18 OS=Drosophila melanogaster GN=RpS18 PE=1 SV=1	152.72	4	35 48 134 163	NA	NA
+13	Q9VM94	Homer, isoform B OS=Drosophila melanogaster GN=homer PE=2 SV=1	96.76	3	27 29 33	NA	NA
+13	Q0E8S7	Homer, isoform C OS=Drosophila melanogaster GN=homer PE=4 SV=1	96.76	3	27 29 33	NA	NA
+13	O96607	Homer OS=Drosophila melanogaster GN=homer PE=2 SV=1	96.76	3	27 29 33	NA	NA
+14	Q1RMN8	(Bos taurus) Similar to Immunoglobulin lambda-like polypeptide 1	92.96	2	146 164	NA	NA
+15	Q05B55	(Bos taurus) Similar to Ig kappa chain C region	92.92	1	143	NA	NA
+16	P41126	60S ribosomal protein L13 OS=Drosophila melanogaster GN=RpL13 PE=2 SV=1	81.00	2	53 154	NA	NA
+17	P02768-1	Tax_Id=9606 Gene_Symbol=ALB Isoform 1 of Serum albumin precursor	80.90	2	30 162	NA	NA
+18	Q7Z3Z0	Tax_Id=9606 Gene_Symbol=KRT25 Keratin, type I cytoskeletal 25	76.89	2	62 114	NA	NA
+18	Q7Z3Y8	Tax_Id=9606 Gene_Symbol=KRT27 Keratin, type I cytoskeletal 27	76.89	2	62 114	NA	NA
+19	Q5D862	Tax_Id=9606 Gene_Symbol=FLG2 Filaggrin-2	72.39	1	156	NA	NA
+20	P36241	60S ribosomal protein L19 OS=Drosophila melanogaster GN=RpL19 PE=1 SV=2	71.71	2	77 123	NA	NA
+21	Q04695	Tax_Id=9606 Gene_Symbol=KRT17 Keratin, type I cytoskeletal 17	50.46	1	117	NA	NA
+22	Q14532	Keratin, type I cuticular HA2 (Hair keratin, type I HA2)	46.89	1	22	NA	NA
+23	P09180	60S ribosomal protein L4 OS=Drosophila melanogaster GN=RpL4 PE=2 SV=2	42.44	1	115	NA	NA
+24	Q02748	Eukaryotic initiation factor 4A OS=Drosophila melanogaster GN=eIF-4a PE=2 SV=3	40.57	1	17	NA	NA
+25	Q26365-2	Isoform A of ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB	39.04	2	83 145	NA	NA
+25	Q26365	ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB PE=2 SV=4	39.04	2	83 145	NA	NA
+26	P41093	60S ribosomal protein L18a OS=Drosophila melanogaster GN=RpL18A PE=1 SV=1	31.40	1	93	NA	NA
+27	Q9D312	Tax_Id=10090 Gene_Symbol=Krt20 Keratin, type I cytoskeletal 20	31.14	1	139	NA	NA
+28	Q9VH60	CG9461 OS=Drosophila melanogaster GN=FBX011 PE=2 SV=1	28.63	1	99	NA	NA
+29	Q9W229	40S ribosomal protein S24 OS=Drosophila melanogaster GN=RpS24 PE=2 SV=1	25.77	1	41	NA	NA
+30	O17445	60S ribosomal protein L15 OS=Drosophila melanogaster GN=RpL15 PE=2 SV=1	25.61	1	65	NA	NA
+30	A8Y560	Ribosomal protein L15 OS=Drosophila melanogaster GN=RpL15 PE=3 SV=2	25.61	1	65	NA	NA
+31	P08736	Elongation factor 1-alpha 1 OS=Drosophila melanogaster GN=Ef1alpha48D PE=1 SV=2	25.33	1	119	NA	NA
+31	P05303	Elongation factor 1-alpha 2 OS=Drosophila melanogaster GN=Ef1alpha100E PE=2 SV=2	25.33	1	119	NA	NA
+31	A4V3Q6	Elongation factor 1-alpha OS=Drosophila melanogaster GN=Ef1alpha100E PE=3 SV=1	25.33	1	119	NA	NA
+32	Q9VAD3	CG15523, isoform A OS=Drosophila melanogaster GN=CG15523 PE=4 SV=3	24.89	1	13	NA	NA
+33	Q9W237	40S ribosomal protein S16 OS=Drosophila melanogaster GN=RpS16 PE=2 SV=1	21.22	1	63	NA	NA
+34	Q9VS34	60S ribosomal protein L18 OS=Drosophila melanogaster GN=RpL18 PE=1 SV=1	21.05	1	148	NA	NA
+35	Q7K284	Protein CLP1 homolog OS=Drosophila melanogaster GN=cbc PE=2 SV=1	20.03	1	135	NA	NA

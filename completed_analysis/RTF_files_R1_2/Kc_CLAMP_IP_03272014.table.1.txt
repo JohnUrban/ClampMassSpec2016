@@ -1,0 +1,53 @@
+1	P02769	(Bos taurus) Bovine serum albumin precursor	1068.96	35	15 26 31 33 37 55 59 64 66 70 73 79 80 81 86 88 98 99 101 118 119 122 129 147 148 152 162 163 169 172 174 176 191 193 195	NA	NA
+2	P04264	Tax_Id=9606 Gene_Symbol=KRT1 Keratin, type II cytoskeletal 1	672.59	14	2 7 24 60 71 87 94 124 125 161 165 177 178 196	NA	NA
+3	P13645	Tax_Id=9606 Gene_Symbol=KRT10 Keratin, type I cytoskeletal 10	621.72	15	3 13 30 38 46 67 74 77 89 116 130 134 149 153 182	NA	NA
+4	P35527	Tax_Id=9606 Gene_Symbol=KRT9 Keratin, type I cytoskeletal 9	460.92	10	1 50 51 93 103 112 113 140 143 180	NA	NA
+5	Q9W2U7	CG17255, isoform A OS=Drosophila melanogaster GN=nocte PE=2 SV=4	394.80	13	19 21 52 72 95 96 102 121 151 154 183 188 199	NA	NA
+6	Q9V9N4	CG1832, isoform A OS=Drosophila melanogaster GN=Jupiter PE=2 SV=1	369.62	8	11 45 108 137 142 167 192 198	NA	NA
+6	Q8IGP5	CG1832, isoform B OS=Drosophila melanogaster GN=CG1832-RB PE=2 SV=1	369.62	8	11 45 108 137 142 167 192 198	NA	NA
+7	P08779	Tax_Id=9606 Gene_Symbol=KRT16 Keratin, type I cytoskeletal 16	328.79	11	17 42 56 65 82 83 105 150 159 173 189	NA	NA
+8	P35908	Tax_Id=9606 Gene_Symbol=KRT2 Keratin, type II cytoskeletal 2 epidermal	260.17	9	8 47 61 115 120 132 156 181 187	NA	NA
+9	Q26365-2	Isoform A of ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB	226.16	10	53 54 75 110 127 141 158 166 179 185	NA	NA
+9	Q26365	ADP,ATP carrier protein OS=Drosophila melanogaster GN=sesB PE=2 SV=4	226.16	10	53 54 75 110 127 141 158 166 179 185	NA	NA
+10	P48668	Tax_Id=9606 Gene_Symbol=KRT6C Keratin, type II cytoskeletal 6C	202.82	7	14 57 104 109 114 128 170	NA	NA
+11	P21187	Polyadenylate-binding protein OS=Drosophila melanogaster GN=pAbp PE=1 SV=3	196.13	8	4 20 35 58 131 138 145 155	NA	NA
+12	A1ZAB5	Protein clueless OS=Drosophila melanogaster GN=clu PE=1 SV=1	132.22	4	90 135 157 168	NA	NA
+13	P02533	Tax_Id=9606 Gene_Symbol=KRT14 Keratin, type I cytoskeletal 14	130.68	4	5 68 107 117	NA	NA
+14	P00761	Trypsin - Sus scrofa (Pig).	118.78	2	92 136	NA	NA
+15	P02768-1	Tax_Id=9606 Gene_Symbol=ALB Isoform 1 of Serum albumin precursor	118.67	3	48 144 184	NA	NA
+16	Q86NP2	Negative elongation factor A OS=Drosophila melanogaster GN=Nelf-A PE=1 SV=2	115.66	6	23 29 43 76 100 139	NA	NA
+17	Q7KM15	Beta NAC homolog OS=Drosophila melanogaster GN=bic PE=2 SV=1	100.20	3	9 190 197	NA	NA
+18	Q9W418	GH17761p OS=Drosophila melanogaster GN=Ubi-p5E PE=2 SV=3	51.01	1	186	NA	NA
+18	P18101	Ubiquitin-60S ribosomal protein L40 OS=Drosophila melanogaster GN=RpL40 PE=1 SV=2	51.01	1	186	NA	NA
+18	P15357	Ubiquitin-40S ribosomal protein S27a OS=Drosophila melanogaster GN=RpS27A PE=1 SV=2	51.01	1	186	NA	NA
+18	P0CG69	Polyubiquitin OS=Drosophila melanogaster GN=Ubi-p63E PE=3 SV=1	51.01	1	186	NA	NA
+18	A4V1F9	Ubiquitin-63E, isoform C OS=Drosophila melanogaster GN=Ubi-p63E PE=4 SV=1	51.01	1	186	NA	NA
+19	P13647	Tax_Id=9606 Gene_Symbol=KRT5 Keratin, type II cytoskeletal 5	46.41	3	6 28 106	NA	NA
+20	P84249	Histone H3.3 OS=Drosophila melanogaster GN=His3.3A PE=1 SV=2	43.95	1	34	NA	NA
+20	P02299	Histone H3 OS=Drosophila melanogaster GN=His3 PE=1 SV=4	43.95	1	34	NA	NA
+20	E2QCP0	Histone H3 OS=Drosophila melanogaster GN=His3.3A PE=3 SV=1	43.95	1	34	NA	NA
+21	P11147	Heat shock 70 kDa protein cognate 4 OS=Drosophila melanogaster GN=Hsc70-4 PE=1 SV=3	37.65	1	32	NA	NA
+22	Q08473-3	Isoform C of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	35.51	1	171	NA	NA
+22	Q08473-2	Isoform A of RNA-binding protein squid OS=Drosophila melanogaster GN=sqd	35.51	1	171	NA	NA
+22	Q08473	RNA-binding protein squid OS=Drosophila melanogaster GN=sqd PE=1 SV=3	35.51	1	171	NA	NA
+23	P02283	Histone H2B OS=Drosophila melanogaster GN=His2B PE=1 SV=2	34.97	2	91 194	NA	NA
+24	P29843	Heat shock 70 kDa protein cognate 1 OS=Drosophila melanogaster GN=Hsc70-1 PE=1 SV=1	34.78	1	164	NA	NA
+25	Q9N6D8	GH11591p OS=Drosophila melanogaster GN=p53 PE=2 SV=1	32.77	3	69 85 97	NA	NA
+25	Q8IMZ4	P53 protein long form variant 1 OS=Drosophila melanogaster GN=p53 PE=2 SV=2	32.77	3	69 85 97	NA	NA
+26	Q3SZ57	(Bos taurus) Alpha-fetoprotein precursor	30.22	1	12	NA	NA
+27	Q9D312	Tax_Id=10090 Gene_Symbol=Krt20 Keratin, type I cytoskeletal 20	29.93	1	160	NA	NA
+28	P08736	Elongation factor 1-alpha 1 OS=Drosophila melanogaster GN=Ef1alpha48D PE=1 SV=2	29.24	1	36	NA	NA
+28	P05303	Elongation factor 1-alpha 2 OS=Drosophila melanogaster GN=Ef1alpha100E PE=2 SV=2	29.24	1	36	NA	NA
+28	A4V3Q6	Elongation factor 1-alpha OS=Drosophila melanogaster GN=Ef1alpha100E PE=3 SV=1	29.24	1	36	NA	NA
+29	Q7KNS5	Quaking related 54B, isoform A OS=Drosophila melanogaster GN=qkr54B PE=2 SV=1	25.40	2	16 27	NA	NA
+29	A1ZAT7	Quaking related 54B, isoform C OS=Drosophila melanogaster GN=qkr54B PE=4 SV=1	25.40	2	16 27	NA	NA
+30	Q4AB57	Histone H2A OS=Drosophila melanogaster GN=His2A:CG33856 PE=3 SV=1	24.79	1	133	NA	NA
+30	P84051	Histone H2A OS=Drosophila melanogaster GN=His2A PE=1 SV=2	24.79	1	133	NA	NA
+30	P08985	Histone H2A.v OS=Drosophila melanogaster GN=His2Av PE=1 SV=2	24.79	1	133	NA	NA
+31	P13008	40S ribosomal protein S26 OS=Drosophila melanogaster GN=RpS26 PE=1 SV=1	24.53	1	111	NA	NA
+32	P54622	Single-stranded DNA-binding protein, mitochondrial OS=Drosophila melanogaster GN=mtSSB PE=1 SV=2	23.61	1	39	NA	NA
+33	Q9VK63	CG5776 OS=Drosophila melanogaster GN=CG5776 PE=2 SV=1	23.19	1	44	NA	NA
+34	Q8MQK4	Uridine kinase OS=Drosophila melanogaster GN=l(2)k01209 PE=2 SV=1	22.37	1	146	NA	NA
+34	A1ZAS3	Uridine kinase OS=Drosophila melanogaster GN=l(2)k01209 PE=2 SV=1	22.37	1	146	NA	NA
+35	Q9VEX6	AAA family protein Bor OS=Drosophila melanogaster GN=bor PE=2 SV=2	21.99	1	41	NA	NA
+36	Q9W237	40S ribosomal protein S16 OS=Drosophila melanogaster GN=RpS16 PE=2 SV=1	21.48	1	84	NA	NA

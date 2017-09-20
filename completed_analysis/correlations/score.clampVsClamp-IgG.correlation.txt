@@ -1,0 +1,3 @@
+,subtract,clamp
+subtract,1,-0.618555281927014
+clamp,-0.618555281927014,1
