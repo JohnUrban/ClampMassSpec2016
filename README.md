@@ -35,25 +35,15 @@ DESCRIPTION
 4. BioRep1 has 2 technical replicates (a second injection of BioRep1 was performed simply because the first did not yield a lot of peptide data).
 5. The information from 2 technical replicates needed to be integrated, and the integrated BioRep1 information needed to be integrated with BioRep2.
 6. We focused on number of unique peptides. One way to merge information is to create the union (set) of unique peptides. 
-
 	Another way to merge information is to take the mean number of unique peptides between the two.
-
 	If one set has 5 unique peptides and the other has 0, the mean is 2.5.
-
 	The union approach is biased against short proteins. If the number of unique peptides is already saturated in set1, set2 will not contribute any information.
-
 	Conversely, long proteins that are not saturated in set 1 will be more likeley to get new information from set 2.
-
 	The mean approach offsets this bias a little bit. However, in both, long proteins are arbitrarily able to have a higher number of unique peptides than short proteins.
-
 	Thus, one needs to normalize the number of unique peptides observed for each protein by the number of possible unique peptides it could have.
-
 	Two proxies for the number of possible unique peptides are molecular weight and amino acid length of the protein.
-
 	Molecular weight applies different normalization weights dependent on amino acid composition, which may or may not be appropriate.
-
 	Amino acid length applies a uniform normalization weight to all proteins independent of amino acid composition.
-
 	We tried both ways.
 
 7. For weights we obtained monoisotopic masses for each amino acid including U. For X we used the mean monoisotopic mass.	
@@ -97,6 +87,7 @@ DESCRIPTION
 10. At this point, because some of the accessions in our data are uncommon, we had to manually add the uncommon accessions to the name/molwt/length tables we generated.
 	For all below, new entries were made where column#1 (the common accession that UniProt returned) is substituted with value in column#2 (the uncommon accession for same UniProt entry that was in our dataset).
 	Thus, the final database of names/accessions with MW/Len information had matches for all accessions in our mass spec data.
+
 	P78385 ---> Q6NT21
 
 	Q61765 ---> A2A5Y0
